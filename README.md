@@ -1,6 +1,6 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions (随意转载，无需署名)
-[RSS Feed](https://raw.githubusercontent.com/yihong0618/gitblog/master/feed.xml)
+[RSS Feed](https://rsshub.app/github/branches/dululu/notes)
 
 ## [友情链接](https://github.com/yihong0618/gitblog/issues/217)
 <table>

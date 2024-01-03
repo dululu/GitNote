@@ -17,15 +17,14 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
     <td>https://github.com/yihong0618</td>
     <td>🐂🍺</td>
     </tr>
-
     <tr>
     <td>兔子鮮笙</td>
     <td>https://tuzi.moe</td>
     <td>22 岁的天才少年</td>
-    </tr>
-      
+    </tr>      
  </tbody>
  </table>
+
 
  ## 置顶文章
  ## 一些记录

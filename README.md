@@ -1,5 +1,5 @@
 ## MyGitblog
-My personal blog using issues and GitHub Actions [😁](https://github.com/yihong0618/gitblog)[RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
+My personal blog using issues and GitHub Actions [参考yihong](https://github.com/yihong0618/gitblog)$[RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
 - [twitter](https://twitter.com/xhqaq14450)
 - [blog](https://dululu-github-io.vercel.app/)
 - [cnblogs](https://www.cnblogs.com/asn321/)

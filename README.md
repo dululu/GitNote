@@ -1,14 +1,8 @@
 ## MyGitblog
-My personal blog using issues and GitHub Actions [😁](https://github.com/yihong0618/gitblog)[RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
-- twitter:<a href="https://twitter.com/xhqaq14450">
-  <img src="https://icons8.com/icon/68193/twitter" alt="图片">
-</a>
-- blog:<a href="https://dululu-github-io.vercel.app/">
-  <img src="https://dululu-github-io.vercel.app/" alt="图片">
-</a>
-- cnblogs:<a href="https://www.cnblogs.com/asn321/">
-  <img src="https://icons8.com/icon/39681/ace-of-hearts" alt="图片">
-</a>
+My personal blog using issues and GitHub Actions [参考yihong](https://github.com/yihong0618/gitblog)$[RSS Feed](https://raw.githubusercontent.com/dululu/notes/main/feed.xml)
+- [twitter](https://twitter.com/xhqaq14450)
+- [blog](https://dululu-github-io.vercel.app/)
+- [cnblogs](https://www.cnblogs.com/asn321/)
   
 
 ## 最近更新

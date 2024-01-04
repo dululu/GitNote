@@ -306,7 +306,20 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
                 if is_me(c, me):
                     f.write("\n\n---\n\n")
                     f.write(c.body or "")
-
+                    
+def replace_readme_comments(file_name, comment_str, comments_name):
+    with open(file_name, "r+") as f:
+        text = f.read()
+        # regrex sub from github readme comments
+        text = re.sub(
+            GITHUB_README_COMMENTS.format(name=comments_name),
+            r"\1{}\n\3".format(comment_str),
+            text,
+            flags=re.DOTALL,
+        )
+        f.seek(0)
+        f.write(text)
+        f.truncate()
 
 if __name__ == "__main__":
     if not os.path.exists(BACKUP_DIR):

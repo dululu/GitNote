@@ -31,7 +31,6 @@ GITHUB_README_COMMENTS = (
 )
 # add new label here
 LABEL_DICT = {
-
     "Read": {"label_list": READ_LABEL_LIST, "comment_name": "my_read"},
 }
 FRIENDS_TABLE_HEAD = "| Name | Link | Desc | \n | ---- | ---- | ---- |\n"

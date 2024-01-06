@@ -16,11 +16,24 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
+READ_LABEL_LIST = [
+    "Read",
+]
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 
+MY_BLOG_REPO = "dululu/notes"
+GITHUB_README_COMMENTS = (
+    "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
+)
+# add new label here
+LABEL_DICT = {
+    "Cook": {"label_list": COOK_LABEL_LIST, "comment_name": "my_cook"},
+    "Movie": {"label_list": MOVIE_LABEL_LIST, "comment_name": "my_movie"},
+    "Read": {"label_list": READ_LABEL_LIST, "comment_name": "my_read"},
+}
 FRIENDS_TABLE_HEAD = "| Name | Link | Desc | \n | ---- | ---- | ---- |\n"
 FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |\n"
 FRIENDS_INFO_DICT = {
@@ -320,7 +333,7 @@ def replace_readme_comments(file_name, comment_str, comments_name):
             flags=re.DOTALL,
         )
         f.seek(0)
-        f.write(text)
+        f.write(text)   
         f.truncate()
 
 

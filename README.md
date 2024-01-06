@@ -11,17 +11,19 @@ My personal blog using issues and GitHub Actions
 > - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位**
 
 ## 最近更新
+- [3](https://github.com/dululu/notes/issues/6)--2024-01-06
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
-- [娱乐区](https://github.com/dululu/notes/issues/4)--2024-01-05
-- [TODO](https://github.com/dululu/notes/issues/3)--2024-01-04
+- [todolist](https://github.com/dululu/notes/issues/3)--2024-01-04
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
-## Read
-- [娱乐区](https://github.com/dululu/notes/issues/4)--2024-01-05
 ## Skills
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
-
 ## TODO
+<<<<<<< HEAD
 TODO list from [list](https://github.com/dululu/notes/issues/3)--8 jobs to do--1 jobs done
+=======
+TODO list from [todolist](https://github.com/dululu/notes/issues/3) all done
+
+>>>>>>> ad71a1845a907ad25a17b2cee0395c5ffbf5d5e5

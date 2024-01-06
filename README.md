@@ -38,6 +38,8 @@ My personal blog using issues and GitHub Actions
 </tbody>
 </table>
 
+## 置顶文章
+- [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
 - [链接](https://github.com/dululu/notes/issues/7)--2024-01-06
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06

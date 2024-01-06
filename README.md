@@ -25,6 +25,11 @@ My personal blog using issues and GitHub Actions
 <td>https://tuzi.moe/</td>
 <td>22 岁的天才少年</td>
 </tr>
+<tr>
+<td>yihong</td>
+<td>https://github.com/yihong0618</td>
+<td>斗宗强者，恐怖如斯。</td>
+</tr>
 </tbody>
 </table>
 

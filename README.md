@@ -1,4 +1,4 @@
-## MyGitblog
+MyGitblog
 My personal blog using issues and GitHub Actions
 - [blog](https://dululu-github-io.vercel.app/zh-cn)
 - [cnblog](https://www.cnblogs.com/asn321/)
@@ -12,7 +12,7 @@ My personal blog using issues and GitHub Actions
 
 ## 最近更新
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
-- [TODO](https://github.com/dululu/notes/issues/3)--2024-01-04
+- [todolist](https://github.com/dululu/notes/issues/3)--2024-01-04
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## Skills

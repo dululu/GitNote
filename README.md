@@ -21,9 +21,9 @@ My personal blog using issues and GitHub Actions
 </thead>
 <tbody>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>兔子鮮笙</td>
+<td>https://tuzi.moe/</td>
+<td>22 岁的天才少年</td>
 </tr>
 </tbody>
 </table>

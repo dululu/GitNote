@@ -11,6 +11,7 @@ My personal blog using issues and GitHub Actions
 > - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位**
 
 ## 最近更新
+- [3](https://github.com/dululu/notes/issues/6)--2024-01-06
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
 - [todolist](https://github.com/dululu/notes/issues/3)--2024-01-04
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04

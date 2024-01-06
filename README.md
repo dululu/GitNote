@@ -41,17 +41,18 @@ My personal blog using issues and GitHub Actions
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
-- [完善blog的todolist, 友情链接, 置顶文章, rss 。](https://github.com/dululu/notes/issues/8)--2024-01-06
 - [链接](https://github.com/dululu/notes/issues/7)--2024-01-06
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
 - [todolist](https://github.com/dululu/notes/issues/3)--2024-01-04
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
+- [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## Skills
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## TODO
-TODO list from [todolist](https://github.com/dululu/notes/issues/3)--1 jobs to do--1 jobs done
-- [x] #1 
+TODO list from [todolist](https://github.com/dululu/notes/issues/3)--2 jobs to do--1 jobs done
+- [x]  [rss，todolist , 友情链接，置顶文章](#1) 
+- [ ] 扇贝单词，读书&刷剧区
 - [ ]  GitHub Action
 

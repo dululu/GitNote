@@ -20,12 +20,13 @@ My personal blog using issues and GitHub Actions
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## TODO
-TODO list from [todolist](https://github.com/dululu/notes/issues/3)--6 jobs to do--1 jobs done
-- [x]  3f
+TODO list from [todolist](https://github.com/dululu/notes/issues/3)--7 jobs to do--1 jobs done
+- [x] 3f
 - [ ] #6
 - [ ] f
 - [ ] f
 - [ ] 丰富的收拾东西出现
 - [ ]  反对士大夫十分·
 - [ ] h
+- [ ]  GitHub Action
 

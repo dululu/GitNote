@@ -9,17 +9,22 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## MyGitblog
+MD_HEAD = """MyGitblog
 My personal blog using issues and GitHub Actions
-[blog](https://dululu-github-io.vercel.app/zh-cn)
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+- [blog](https://dululu-github-io.vercel.app/zh-cn)
+- [cnblog](https://www.cnblogs.com/asn321/)
+- [RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
+
+> - **人一旦被剥夺了幻想和光明，便感到在自己是现世的局外人，随时想逃脱自我，又无可奈何置身其间，因焦虑而消沉陷入绝望——荒诞疾病。**
+> 
+> - **迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**
+>
+> - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位**
 """
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
-READ_LABEL_LIST = [
-    "Read",
-]
+
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]
@@ -29,10 +34,6 @@ MY_BLOG_REPO = "dululu/notes"
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
 )
-# add new label here
-LABEL_DICT = {
-    "Read": {"label_list": READ_LABEL_LIST, "comment_name": "my_read"},
-}
 FRIENDS_TABLE_HEAD = "| Name | Link | Desc | \n | ---- | ---- | ---- |\n"
 FRIENDS_TABLE_TEMPLATE = "| {name} | {link} | {desc} |\n"
 FRIENDS_INFO_DICT = {
@@ -40,7 +41,7 @@ FRIENDS_INFO_DICT = {
     "链接": "",
     "描述": "",
 }
-READ_LABEL_LIST = "| Name | Start | Update | \n| ---- | ---- | ---- |\n"
+
 
 def get_me(user):
     return user.get_user().login
@@ -320,20 +321,6 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
                     f.write("\n\n---\n\n")
                     f.write(c.body or "")
 
-
-def replace_readme_comments(file_name, comment_str, comments_name):
-    with open(file_name, "r+") as f:
-        text = f.read()
-        # regrex sub from github readme comments
-        text = re.sub(
-            GITHUB_README_COMMENTS.format(name=comments_name),
-            r"\1{}\n\3".format(comment_str),
-            text,
-            flags=re.DOTALL,
-        )
-        f.seek(0)
-        f.write(text)   
-        f.truncate()
 
 
 if __name__ == "__main__":

@@ -10,8 +10,31 @@ My personal blog using issues and GitHub Actions
 >
 > - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位**
 
+## [友情链接](https://github.com/dululu/notes/issues/7)
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Link</th>
+<th>Desc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>兔子鮮笙</td>
+<td>https://tuzi.moe/</td>
+<td>22 岁的天才少年</td>
+</tr>
+<tr>
+<td>yihong</td>
+<td>https://github.com/yihong0618</td>
+<td>斗宗强者，恐怖如斯。</td>
+</tr>
+</tbody>
+</table>
+
 ## 最近更新
-- [3](https://github.com/dululu/notes/issues/6)--2024-01-06
+- [链接](https://github.com/dululu/notes/issues/7)--2024-01-06
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
 - [todolist](https://github.com/dululu/notes/issues/3)--2024-01-04
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
@@ -22,8 +45,16 @@ My personal blog using issues and GitHub Actions
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## TODO
 <<<<<<< HEAD
+<<<<<<< HEAD
 TODO list from [list](https://github.com/dululu/notes/issues/3)--8 jobs to do--1 jobs done
 =======
 TODO list from [todolist](https://github.com/dululu/notes/issues/3) all done
+=======
+TODO list from [todolist](https://github.com/dululu/notes/issues/3)--3 jobs to do--1 jobs done
+- [x] 完善blog的todolist
+- [X] 友情链接
+- [ ] 置顶文章
+- [ ]  GitHub Action
+>>>>>>> 4e9ce506c79997645d0c9161f0556659b4f2f946
 
 >>>>>>> ad71a1845a907ad25a17b2cee0395c5ffbf5d5e5

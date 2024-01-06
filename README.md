@@ -1,5 +1,5 @@
 ## MyGitblog
-My personal blog using issues and GitHub Actions.😴😴😴
+My personal blog using issues and GitHub Actions
 - [blog](https://dululu-github-io.vercel.app/zh-cn)
 - [cnblog](https://www.cnblogs.com/asn321/)
 - [RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
@@ -8,7 +8,7 @@ My personal blog using issues and GitHub Actions.😴😴😴
 > 
 > - **迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**
 >
-> - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位。**
+> - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位**
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
 <table>
@@ -51,17 +51,9 @@ My personal blog using issues and GitHub Actions.😴😴😴
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## TODO
-<<<<<<< HEAD
-<<<<<<< HEAD
-TODO list from [list](https://github.com/dululu/notes/issues/3)--8 jobs to do--1 jobs done
-=======
-TODO list from [todolist](https://github.com/dululu/notes/issues/3) all done
-=======
 TODO list from [todolist](https://github.com/dululu/notes/issues/3)--3 jobs to do--1 jobs done
 - [x] 完善blog的todolist
 - [ ] 友情链接
 - [ ] 置顶文章
 - [ ]  GitHub Action
->>>>>>> 4e9ce506c79997645d0c9161f0556659b4f2f946
 
->>>>>>> ad71a1845a907ad25a17b2cee0395c5ffbf5d5e5

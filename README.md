@@ -1,4 +1,4 @@
-MyGitblog
+## MyGitblog
 My personal blog using issues and GitHub Actions
 - [blog](https://dululu-github-io.vercel.app/zh-cn)
 - [cnblog](https://www.cnblogs.com/asn321/)
@@ -30,9 +30,16 @@ My personal blog using issues and GitHub Actions
 <td>https://github.com/yihong0618</td>
 <td>斗宗强者，恐怖如斯。</td>
 </tr>
+<tr>
+<td>古思为</td>
+<td>https://siwei.io/</td>
+<td>I build things with magic and scale the magic to help people.</td>
+</tr>
 </tbody>
 </table>
 
+## 置顶文章
+- [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
 - [链接](https://github.com/dululu/notes/issues/7)--2024-01-06
 - [q](https://github.com/dululu/notes/issues/5)--2024-01-06
@@ -52,7 +59,7 @@ TODO list from [todolist](https://github.com/dululu/notes/issues/3) all done
 =======
 TODO list from [todolist](https://github.com/dululu/notes/issues/3)--3 jobs to do--1 jobs done
 - [x] 完善blog的todolist
-- [X] 友情链接
+- [ ] 友情链接
 - [ ] 置顶文章
 - [ ]  GitHub Action
 >>>>>>> 4e9ce506c79997645d0c9161f0556659b4f2f946

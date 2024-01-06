@@ -10,7 +10,7 @@ My personal blog using issues and GitHub Actions
 >
 > - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位**
 
-## [友情链接](https://github.com/dululu/gitblog/issues/7)
+## [友情链接](https://github.com/dululu/notes/issues/7)
 <table>
 <thead>
 <tr>
@@ -46,7 +46,7 @@ My personal blog using issues and GitHub Actions
 ## TODO
 TODO list from [todolist](https://github.com/dululu/notes/issues/3)--3 jobs to do--1 jobs done
 - [x] 完善blog的todolist
-- [ ] 友情链接
+- [X] 友情链接
 - [ ] 置顶文章
 - [ ]  GitHub Action
 

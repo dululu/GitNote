@@ -41,7 +41,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
-- [[yihong2022](https://github.com/yihong0618/2020?tab=readme-ov-file)](https://github.com/dululu/notes/issues/11)--2024-01-06
+- [[yihong2022](#11)](https://github.com/dululu/notes/issues/11)--2024-01-06
 - [高效学习方法](https://github.com/dululu/notes/issues/10)--2024-01-06
 - [需要学习的东西](https://github.com/dululu/notes/issues/9)--2024-01-06
 - [链接](https://github.com/dululu/notes/issues/7)--2024-01-06
@@ -50,7 +50,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 收藏文章
-- [[yihong2022](https://github.com/yihong0618/2020?tab=readme-ov-file)](https://github.com/dululu/notes/issues/11)--2024-01-06
+- [[yihong2022](#11)](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## 文章
 - [高效学习方法](https://github.com/dululu/notes/issues/10)--2024-01-06
 ## TODO

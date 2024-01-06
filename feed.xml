@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-06T18:05:22.519240+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-06T18:05:22.834717+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-06T18:05:23.002511+00:00</updated><content type="html"><![CDATA[<ul>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-06T18:07:45.075935+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/11</id><title>[yihong2022](#11)</title><updated>2024-01-06T18:07:45.228052+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/yihong0618/2020?tab=readme-ov-file">yihong2022</a></p>
+]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-06T18:07:45.311108+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-06T18:07:45.388293+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> q</li>
 <li><input disabled="" type="checkbox"> e</li>
 <li><input disabled="" type="checkbox"> r</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-06T18:05:23.198845+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
+]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-06T18:07:45.467480+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
@@ -15,13 +16,13 @@
 打心后会自动加到友情链接里。</li>
 </ul>
 <p>❤</p>
-]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-06T18:05:23.357403+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-06T18:07:45.551626+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox">  <a href="#1">rss，todolist , 友情链接，置顶文章</a> </li>
 <li><input disabled="" type="checkbox"> 扇贝单词，读书&amp;刷剧区<a href="https://github.com/yihong0618/2022/tree/main/daily">主要代码</a></li>
 <li><input disabled="" type="checkbox">  GitHub Action</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-06T18:05:23.507887+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-06T18:05:23.658776+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
+]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-06T18:07:45.638717+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-06T18:07:45.716587+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
 <ul>
 <li>参考来源：<a href="https://github.com/yihong0618/gitblog/issues/209">yihong</a>&amp;<a href="https://github.com/yihong0618/gitblog/issues/177">这个博客开源了</a></li>
 <li>

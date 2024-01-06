@@ -8,7 +8,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 > 
 > - **迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**
 >
-> - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位。。**
+> - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位。**
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
 <table>

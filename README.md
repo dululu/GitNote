@@ -24,8 +24,4 @@ My personal blog using issues and GitHub Actions
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 
 ## TODO
-TODO list from[]()
-- []
-- []
-- []
-- []
+TODO list from [list](https://github.com/dululu/notes/issues/3)--8 jobs to do--1 jobs done

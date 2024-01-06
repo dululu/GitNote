@@ -9,7 +9,7 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """MyGitblog
+MD_HEAD = """## MyGitblog
 My personal blog using issues and GitHub Actions
 - [blog](https://dululu-github-io.vercel.app/zh-cn)
 - [cnblog](https://www.cnblogs.com/asn321/)

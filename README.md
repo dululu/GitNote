@@ -41,7 +41,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
-- [没啥](https://github.com/dululu/notes/issues/13)--2024-01-06
+- [自省](https://github.com/dululu/notes/issues/13)--2024-01-06
 - [1](https://github.com/dululu/notes/issues/12)--2024-01-06
 - [[yihong2022](#11)](https://github.com/dululu/notes/issues/11)--2024-01-06
 - [高效学习方法](https://github.com/dululu/notes/issues/10)--2024-01-06
@@ -52,7 +52,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 收藏文章
 - [[yihong2022](#11)](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## 文章
-- [没啥](https://github.com/dululu/notes/issues/13)--2024-01-06
+- [自省](https://github.com/dululu/notes/issues/13)--2024-01-06
 - [高效学习方法](https://github.com/dululu/notes/issues/10)--2024-01-06
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--3 jobs to do--0 jobs done

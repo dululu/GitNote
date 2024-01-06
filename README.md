@@ -58,6 +58,6 @@ TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)
 
 TODO list from [Gitblog](https://github.com/dululu/notes/issues/3)--2 jobs to do--1 jobs done
 - [x]  [rss，todolist , 友情链接，置顶文章](#1) 
-- [ ] 扇贝单词，读书&刷剧区
+- [ ] 扇贝单词，读书&刷剧区[主要代码](https://github.com/yihong0618/2022/tree/main/daily)
 - [ ]  GitHub Action
 

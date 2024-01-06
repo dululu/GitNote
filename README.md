@@ -13,9 +13,9 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - 
 ## 娱乐
 
-<!--START_SECTION:my_drama-->
+<!--START_SECTION:my_read-->
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
 
 
-<!--END_SECTION:my_drama-->
+<!--END_SECTION:my_read-->

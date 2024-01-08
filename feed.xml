@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-08T17:10:50.128266+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-01-08T17:10:50.514080+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-08T17:22:37.897066+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-01-08T17:22:38.237028+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
 <h3>gdb是啥？</h3>
 <ul>
 <li>GNU Debugger</li>
@@ -17,9 +17,156 @@
 <img width="357" alt="image" src="https://github.com/dululu/notes/assets/64392262/db79ccb8-5c41-478b-b015-d3116528821a"></li>
 </ul>
 <h3>如何有效保存blog图片</h3>
-]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="question"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略，学了不再怕指针</title><updated>2024-01-08T17:10:50.711974+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
+]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="question"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略，学了不再怕指针</title><updated>2024-01-08T17:22:38.420413+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
 <strong>文档</strong>: <a href="https://github.com/ShiqiYu/CPP/tree/main/week01">github</a></p>
-]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/13</id><title>自省</title><updated>2024-01-08T17:10:50.876263+00:00</updated><content type="html"><![CDATA[<ul>
+<ul>
+<li>基础知识：以点带面</li>
+<li>
+本课重点： <strong>指针和内存管理</strong><ul>
+<li><strong>程序效率提升；</strong></li>
+<li>介绍OpenCV采用c++特性设计cv::Mat类</li>
+<li>介绍ARM开发：ARM开发与Intel的x86开发没有区别。嵌入式ARM，智能设备/ARM服务器。</li>
+</ul>
+</li>
+</ul>
+<h2>基础知识</h2>
+<h3>P1:编译 Compile</h3>
+<ul>
+<li>编译C++代码：g++编译器</li>
+</ul>
+<pre><code class="language-cpp">g++ hello.cpp
+g++ hello.cpp  --std=c++11  //告诉编译器采用哪一个标准
+//执行成功，生成可执行文件a.out
+g++ hello.cpp  --std=c++11 -o hello //更改执行文件名
+./hello    //执行
+</code></pre>
+<ul>
+<li>
+<p>计算机编程语言发展历史</p>
+<ul>
+<li>
+<p>二进制指令（Binary instructions for CPU）: 纸带打孔表示0和1
+<img width="292" alt="屏幕截图 2024-01-08 160010" src="https://github.com/dululu/notes/assets/64392262/2732d2af-d738-4ec2-8378-862c4922b39e"></p>
+</li>
+<li>
+<p>汇编语言（assembly language）</p>
+</li>
+<li>
+<p>高级编程语言（high level language）：</p>
+<ul>
+<li>C:1973  </li>
+<li>C++:1979，c with class</li>
+<li>Java:1995 生成字节码class文件</li>
+<li>Python:1990 脚本语言</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>编译和链接</strong>
+<img width="471" alt="屏幕截图 2023-08-06 153029" src="https://github.com/dululu/notes/assets/64392262/8d6d194d-546e-4828-a15d-ec4b475ca8f4"></p>
+</li>
+<li>
+<p>函数的声明和定义(实现)</p>
+</li>
+</ul>
+<pre><code class="language-cpp">
+int mul(int a, int b);  //*.h
+
+int mul(int a, int b) // *.c,*.cpp
+{
+    return a * b;
+}
+</code></pre>
+<ul>
+<li>
+<strong>debug</strong><ul>
+<li>编译错误：语法错误，如漏了分号</li>
+<li>链接错误：Mul.o 与 mul.o</li>
+<li>运行时错误：如除数为0，2/0  </li>
+</ul>
+</li>
+</ul>
+<h3>P2 预处理和宏 Preprocessor and Macros</h3>
+<p><em>在编译之前的步骤</em></p>
+<ul>
+<li>
+<p>定义规则</p>
+<ul>
+<li>以<code>#</code>开头</li>
+<li>每个预处理指令只能占一行</li>
+</ul>
+</li>
+<li>
+<p>宏定义</p>
+</li>
+</ul>
+<pre><code class="language-cpp">#define PI 3.14 // PI 不是变量，因为不可改变，理解为文字替换
+</code></pre>
+<ul>
+<li>
+<strong>为了避免同一个头文件被包含（include）多次，C/C++ 中有两种宏实现方式：</strong><ul>
+<li><code>#pragma once</code></li>
+</ul>
+<pre><code class="language-cpp">  方式一：
+  #ifndef __SOMEFILE_H__
+  #define __SOMEFILE_H__
+  ... ... // 一些声明语句
+  #endif
+
+  方式二：
+  #pragma once
+  ... ... // 一些声明语句,好处是，你不必再费劲想个宏名了，当然也就不会出现宏名碰撞引发的奇怪问题
+</code></pre>
+<ul>
+<li><code> #ifndef / #define</code></li>
+</ul>
+<pre><code class="language-cpp">  #ifndef __XXX_H__
+  #define __XXX_H__
+  int a=1;
+  #endif    // 如果没有定义宏__XXX_H_,执行；如果已经定义了，直接结束。变量 a 只被定义一次
+  //通过宏定义解决头文件重复包含。
+</code></pre>
+</li>
+</ul>
+<h3>P3 简单输入和输出</h3>
+<h5>cpp</h5>
+<ul>
+<li>关于<code>std::ostream cout</code>
+<em>c++并未定义任何输入输出语句，取而代之，包含了一个全面的<strong>标准库</strong>(std)来提供IO机制。许多例子都是使用<strong>iostream</strong>，来表示输入输出流。</em></li>
+<li><strong>ostream</strong> 是一个数据类型，与<code>int</code>,<code>bool</code>类似</li>
+</ul>
+<blockquote>
+<p>cout is an object of data type ostream in namespace std.
+cout是命名空间std中数据类型为ostream的对象。
+cin 是 istream</p>
+</blockquote>
+<ul>
+<li><code>&lt;&lt;</code>是一个operator运算符</li>
+</ul>
+<pre><code class="language-cpp">cin &gt;&gt; a; //从标准输入读数据转成整数类型，存到a里面去。
+cout &lt;&lt; &quot;打印&quot;;
+</code></pre>
+<ul>
+<li>运算符重载</li>
+</ul>
+<pre><code class="language-cpp">    data1 + data2;
+    operator+(data1,data2);//等价的函数调用
+</code></pre>
+<h4>c</h4>
+<p>c语言风格输出，<code>printf</code></p>
+<ul>
+<li><code>int printf(const char *format,....)</code></li>
+</ul>
+<pre><code class="language-cpp">int v = 100;
+printf(&quot;Hello,value = %d\n&quot;, v);
+</code></pre>
+<p>输入:<code>scanf</code></p>
+<pre><code class="language-cpp">int v;
+int ret = scanf(&quot;%d&quot;,&amp;v);
+</code></pre>
+<h3>P4 常见数据类型</h3>
+]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/13</id><title>自省</title><updated>2024-01-08T17:22:38.606034+00:00</updated><content type="html"><![CDATA[<ul>
 <li>早睡早起</li>
 <li>不要浪费时间</li>
 </ul>
@@ -43,14 +190,14 @@ Critical content demanding immediate user attention due to potential risks.</p>
 <p>[!CAUTION]
 Negative potential consequences of an action.</p>
 </blockquote>
-]]></content><link href="https://github.com/dululu/notes/issues/13"/><category term="文章"/><published>2024-01-06T18:45:11+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>2024</title><updated>2024-01-08T17:10:51.032288+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/yihong0618/2020?tab=readme-ov-file">yihong2022</a></p>
-]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-08T17:10:51.196282+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-08T17:10:51.360816+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/13"/><category term="文章"/><published>2024-01-06T18:45:11+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>2024</title><updated>2024-01-08T17:22:38.771786+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/yihong0618/2020?tab=readme-ov-file">yihong2022</a></p>
+]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-08T17:22:38.981758+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-08T17:22:39.153824+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> q</li>
 <li><input disabled="" type="checkbox"> e</li>
 <li><input disabled="" type="checkbox"> r</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-08T17:10:51.537877+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
+]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-08T17:22:39.323448+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
@@ -60,13 +207,13 @@ Negative potential consequences of an action.</p>
 打心后会自动加到友情链接里。</li>
 </ul>
 <p>❤</p>
-]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-08T17:10:51.688998+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-08T17:22:39.495425+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox">  <a href="#1">rss，todolist , 友情链接，置顶文章</a> </li>
 <li><input disabled="" type="checkbox"> 扇贝单词，读书&amp;刷剧区<a href="https://github.com/yihong0618/2022/tree/main/daily">主要代码</a></li>
 <li><input disabled="" type="checkbox">  GitHub Action</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-08T17:10:51.877235+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-08T17:10:52.044206+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
+]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-08T17:22:39.661488+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-08T17:22:39.843776+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
 <ul>
 <li>参考来源：<a href="https://github.com/yihong0618/gitblog/issues/209">yihong</a>&amp;<a href="https://github.com/yihong0618/gitblog/issues/177">这个博客开源了</a></li>
 <li>

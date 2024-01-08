@@ -41,11 +41,13 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 - [快速学习C和C++，基础语法和优化策略，学了不再怕指针](https://github.com/dululu/notes/issues/15)--2024-01-08
 - [自省](https://github.com/dululu/notes/issues/13)--2024-01-06
 - [[yihong2022](#11)](https://github.com/dululu/notes/issues/11)--2024-01-06
 - [高效学习方法](https://github.com/dululu/notes/issues/10)--2024-01-06
-- [需要学习的东西](https://github.com/dululu/notes/issues/9)--2024-01-06
+## question
+- [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## Skills
 - [快速学习C和C++，基础语法和优化策略，学了不再怕指针](https://github.com/dululu/notes/issues/15)--2024-01-08
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04

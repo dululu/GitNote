@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-10T17:46:09.613583+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/17</id><title>快速学习C和C++，基础语法和优化策略。（二）</title><updated>2024-01-10T17:46:09.925022+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-10T17:47:10.786876+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/17</id><title>快速学习C和C++，基础语法和优化策略。（二）</title><updated>2024-01-10T17:47:11.032424+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
 <h4>结构体，联合体，枚举类型</h4>
 <ul>
 <li><code>struct</code> 定义结构体</li>
@@ -93,7 +93,7 @@ int *p9 = new Student[16];
 //释放
 delete p1;
 </code></pre>
-]]></content><link href="https://github.com/dululu/notes/issues/17"/><category term="Skills"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-01-10T17:46:10.067690+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
+]]></content><link href="https://github.com/dululu/notes/issues/17"/><category term="Skills"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-01-10T17:47:11.173573+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
 <h3>gdb是啥？</h3>
 <ul>
 <li>GNU Debugger</li>
@@ -110,8 +110,40 @@ delete p1;
 <li>可以使用命令“g++ --version”来查看系统中是否已安装g++，以及其版本信息。如果系统中没有安装，您可以通过apt-get命令来安装。
 <img width="357" alt="image" src="https://github.com/dululu/notes/assets/64392262/db79ccb8-5c41-478b-b015-d3116528821a"></li>
 </ul>
-<h3>如何有效保存blog图片</h3>
-]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="question"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略（一）</title><updated>2024-01-10T17:46:10.218255+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
+<h3>常见单位换算</h3>
+<ul>
+<li>1 byte = 8 bit
+电脑<strong>存储</strong>的单位有 B（字节）、KB（千字节）、MB（兆字节）、GB（千兆字节）、TB（太字节）和 PB（拍字节）。</li>
+<li>
+它们之间的换算关系为：<ul>
+<li>1 KB = 2 的 10 次方 B，</li>
+<li>1 MB = 2 的 20 次方 B，</li>
+<li>1 GB = 2 的 30 次方 B，</li>
+<li>1 TB = 2 的 40 次方 B，</li>
+<li>1 PB = 2 的 50 次方 B。</li>
+</ul>
+</li>
+<li>
+通常用来表示<strong>网速</strong>的单位有 bps（每秒比特数）、Kbps（千比特每秒）、Mbps（兆比特每秒）和 Gbps（千兆比特每秒）。它们之间的换算关系为：<ul>
+<li>1 Kbps = 2 的 10 次方 bps，</li>
+<li>1 Mbps = 2 的 20 次方 bps，</li>
+<li>1 Gbps = 2 的 30 次方 bps。</li>
+</ul>
+</li>
+</ul>
+<h3>为什么是2^32^B</h3>
+<p><a href="https://www.zhihu.com/question/423135323">nice</a>
+注意区分<strong>容量</strong>和<strong>长度</strong></p>
+<p>说长度的时候就是说这个地址有几个bit</p>
+<p>说容量的时候，意思是在这个地址长度下，最多可能存储多少bit</p>
+<blockquote>
+<ul>
+<li>我们可以说一个32位<code>int</code>型变量占的空间为4B，也可以说计算机里面一个32位寄存器可以记录的数据量为4B</li>
+<li>32位机时代因为<strong>计算机寄存器</strong>的的容量为32位，那么如果我们只想<strong>用一个寄存器来储存一个内存地址</strong>的话，那么我们最多可以表示2的32次方个不同的内存地址，然后每个内存地址下可以存储1B也就是8bit的信息(<strong>注意不是每个位都有自己的地址)</strong>，所以这种设定下支持的最大内存容量就是2^32B = 2^22KB = 2^12MB = 2^2G = 4G。当然这只是一个上界，有时候内存特殊地址有特殊作用，所以事实上32位Windows支持的最大内存没那么大。</li>
+<li>一个地址控制一个字节，所以最终结果是2^32B,计算机中存储器以字节（B）为基本单位。</li>
+</ul>
+</blockquote>
+]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="question"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略（一）</title><updated>2024-01-10T17:47:11.297257+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
 <strong>文档</strong>: <a href="https://github.com/ShiqiYu/CPP/tree/main/week01">github</a></p>
 <blockquote>
 <p>只是差缺补漏，快速过一遍💨💨💨</p>
@@ -405,7 +437,7 @@ float array_sum(*values, size_t length);
 string可以<strong>直接使用运算符</strong>对字符串进行操作。string类没有越界检查
 <img width="617" alt="image" src="https://github.com/dululu/notes/assets/64392262/3cb6200f-588d-4207-b89f-0d2c5c2f4988"></li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/13</id><title>自省</title><updated>2024-01-10T17:46:10.417294+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/13</id><title>自省</title><updated>2024-01-10T17:47:11.429365+00:00</updated><content type="html"><![CDATA[<ul>
 <li>早睡早起</li>
 <li>不要浪费时间</li>
 </ul>
@@ -429,14 +461,14 @@ Critical content demanding immediate user attention due to potential risks.</p>
 <p>[!CAUTION]
 Negative potential consequences of an action.</p>
 </blockquote>
-]]></content><link href="https://github.com/dululu/notes/issues/13"/><category term="文章"/><published>2024-01-06T18:45:11+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>2024</title><updated>2024-01-10T17:46:10.551590+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/yihong0618/2020?tab=readme-ov-file">yihong2022</a></p>
-]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-10T17:46:10.699460+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-10T17:46:10.830161+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/13"/><category term="文章"/><published>2024-01-06T18:45:11+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>2024</title><updated>2024-01-10T17:47:11.528679+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/yihong0618/2020?tab=readme-ov-file">yihong2022</a></p>
+]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-10T17:47:11.637550+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-10T17:47:11.734508+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> q</li>
 <li><input disabled="" type="checkbox"> e</li>
 <li><input disabled="" type="checkbox"> r</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-10T17:46:10.962707+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
+]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-10T17:47:11.833800+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
@@ -446,13 +478,13 @@ Negative potential consequences of an action.</p>
 打心后会自动加到友情链接里。</li>
 </ul>
 <p>❤</p>
-]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-10T17:46:11.102258+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-10T17:47:11.946616+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox">  <a href="#1">rss，todolist , 友情链接，置顶文章</a> </li>
 <li><input disabled="" type="checkbox"> 扇贝单词，读书&amp;刷剧区<a href="https://github.com/yihong0618/2022/tree/main/daily">主要代码</a></li>
 <li><input disabled="" type="checkbox">  GitHub Action</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-10T17:46:11.239763+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-10T17:46:11.384315+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
+]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-10T17:47:12.046357+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-10T17:47:12.142503+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
 <ul>
 <li>参考来源：<a href="https://github.com/yihong0618/gitblog/issues/209">yihong</a>&amp;<a href="https://github.com/yihong0618/gitblog/issues/177">这个博客开源了</a></li>
 <li>

@@ -35,6 +35,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 <td>https://siwei.io/</td>
 <td>I build things with magic and scale the magic to help people.</td>
 </tr>
+<tr>
+<td>dululu</td>
+<td>https://github.com/dululu/notes/</td>
+<td>斗之气，三段😶‍🌫️😰🤣🥵</td>
+</tr>
 </tbody>
 </table>
 

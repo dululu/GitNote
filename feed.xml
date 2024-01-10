@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-10T17:35:22.797845+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/17</id><title>快速学习C和C++，基础语法和优化策略，学了不再怕指针（2）</title><updated>2024-01-10T17:35:23.038132+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-01-10T17:42:34.174075+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/17</id><title>快速学习C和C++，基础语法和优化策略。（二）</title><updated>2024-01-10T17:42:34.416787+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
 <h4>结构体，联合体，枚举类型</h4>
 <ul>
 <li><code>struct</code> 定义结构体</li>
@@ -93,7 +93,7 @@ int *p9 = new Student[16];
 //释放
 delete p1;
 </code></pre>
-]]></content><link href="https://github.com/dululu/notes/issues/17"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-01-10T17:35:23.143047+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
+]]></content><link href="https://github.com/dululu/notes/issues/17"/><category term="Skills"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-01-10T17:42:34.501491+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
 <h3>gdb是啥？</h3>
 <ul>
 <li>GNU Debugger</li>
@@ -111,7 +111,7 @@ delete p1;
 <img width="357" alt="image" src="https://github.com/dululu/notes/assets/64392262/db79ccb8-5c41-478b-b015-d3116528821a"></li>
 </ul>
 <h3>如何有效保存blog图片</h3>
-]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="question"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略，学了不再怕指针(1)</title><updated>2024-01-10T17:35:23.258906+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
+]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="question"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略，学了不再怕指针(1)</title><updated>2024-01-10T17:42:34.605364+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
 <strong>文档</strong>: <a href="https://github.com/ShiqiYu/CPP/tree/main/week01">github</a></p>
 <ul>
 <li>基础知识：以点带面</li>
@@ -402,7 +402,7 @@ float array_sum(*values, size_t length);
 string可以<strong>直接使用运算符</strong>对字符串进行操作。string类没有越界检查
 <img width="617" alt="image" src="https://github.com/dululu/notes/assets/64392262/3cb6200f-588d-4207-b89f-0d2c5c2f4988"></li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/13</id><title>自省</title><updated>2024-01-10T17:35:23.391769+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/13</id><title>自省</title><updated>2024-01-10T17:42:34.724920+00:00</updated><content type="html"><![CDATA[<ul>
 <li>早睡早起</li>
 <li>不要浪费时间</li>
 </ul>
@@ -426,14 +426,14 @@ Critical content demanding immediate user attention due to potential risks.</p>
 <p>[!CAUTION]
 Negative potential consequences of an action.</p>
 </blockquote>
-]]></content><link href="https://github.com/dululu/notes/issues/13"/><category term="文章"/><published>2024-01-06T18:45:11+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>2024</title><updated>2024-01-10T17:35:23.501302+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/yihong0618/2020?tab=readme-ov-file">yihong2022</a></p>
-]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-10T17:35:23.609304+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-10T17:35:23.712499+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/13"/><category term="文章"/><published>2024-01-06T18:45:11+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>2024</title><updated>2024-01-10T17:42:34.827852+00:00</updated><content type="html"><![CDATA[<p><a href="https://github.com/yihong0618/2020?tab=readme-ov-file">yihong2022</a></p>
+]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/10</id><title>高效学习方法</title><updated>2024-01-10T17:42:34.930685+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/10"/><category term="文章"/><published>2024-01-06T17:48:01+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-01-10T17:42:35.031798+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> q</li>
 <li><input disabled="" type="checkbox"> e</li>
 <li><input disabled="" type="checkbox"> r</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-10T17:35:23.798895+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
+]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-01-10T17:42:35.132245+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
@@ -443,13 +443,13 @@ Negative potential consequences of an action.</p>
 打心后会自动加到友情链接里。</li>
 </ul>
 <p>❤</p>
-]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-10T17:35:23.903311+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/3</id><title>Gitblog</title><updated>2024-01-10T17:42:35.239559+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox">  <a href="#1">rss，todolist , 友情链接，置顶文章</a> </li>
 <li><input disabled="" type="checkbox"> 扇贝单词，读书&amp;刷剧区<a href="https://github.com/yihong0618/2022/tree/main/daily">主要代码</a></li>
 <li><input disabled="" type="checkbox">  GitHub Action</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-10T17:35:23.990007+00:00</updated><content type="html"><![CDATA[<p>mark</p>
-]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-10T17:35:24.103804+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
+]]></content><link href="https://github.com/dululu/notes/issues/3"/><category term="TODO"/><published>2024-01-04T19:44:07+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions</title><updated>2024-01-10T17:42:35.333728+00:00</updated><content type="html"><![CDATA[<p>mark</p>
+]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-01-10T17:42:35.430761+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
 <ul>
 <li>参考来源：<a href="https://github.com/yihong0618/gitblog/issues/209">yihong</a>&amp;<a href="https://github.com/yihong0618/gitblog/issues/177">这个博客开源了</a></li>
 <li>

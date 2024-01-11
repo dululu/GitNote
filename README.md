@@ -40,6 +40,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 <td>https://github.com/dululu/notes/</td>
 <td>斗之气，三段😶‍🌫️😰🤣🥵</td>
 </tr>
+<tr>
+<td>jiayuancs</td>
+<td>https://github.com/jiayuancs?tab=repositories</td>
+<td>🐗</td>
+</tr>
 </tbody>
 </table>
 

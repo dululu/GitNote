@@ -46,11 +46,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [C++](https://github.com/dululu/notes/issues/19)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08
-- [自省](https://github.com/dululu/notes/issues/13)--2024-01-06
 ## question
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## Skills
@@ -60,6 +60,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## cpp
+- [C++](https://github.com/dululu/notes/issues/19)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08

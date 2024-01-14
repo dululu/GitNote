@@ -43,7 +43,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 <tr>
 <td>jiayuancs</td>
 <td>https://github.com/jiayuancs?tab=repositories</td>
-<td>🐗</td>
+<td>c++ primer╰(<em>°▽°</em>)╯</td>
 </tr>
 </tbody>
 </table>

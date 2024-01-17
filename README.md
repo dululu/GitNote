@@ -4,7 +4,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [cnblog](https://www.cnblogs.com/asn321/)
 - [RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
 
-> - **人一旦被剥夺了幻想和光明，便感到在自己是现世的局外人，随时想逃脱自我，又无可奈何置身其间，因焦虑而消沉陷入绝望——荒诞疾病。**
+> - **人恒过，然后能改；困于心，衡于虑，而后作；征于色，发于声，而后喻。**
 > 
 > - **迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**
 >
@@ -56,11 +56,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 - [Neovim ](https://github.com/dululu/notes/issues/20)--2024-01-14
 - [C++](https://github.com/dululu/notes/issues/19)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
-- [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## question
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## Skills
@@ -70,6 +70,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## cpp
+- [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 - [C++](https://github.com/dululu/notes/issues/19)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10

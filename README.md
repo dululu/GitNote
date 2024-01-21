@@ -70,11 +70,12 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## cpp
-- [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 - [C++](https://github.com/dululu/notes/issues/19)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08
+## 周记
+- [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 ## 收藏文章
 - [2024](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## 文章

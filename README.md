@@ -56,11 +56,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [Tips](https://github.com/dululu/notes/issues/23)--2024-01-21
 - [Week001](https://github.com/dululu/notes/issues/22)--2024-01-21
 - [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 - [Neovim ](https://github.com/dululu/notes/issues/20)--2024-01-14
 - [C++](https://github.com/dululu/notes/issues/19)--2024-01-11
-- [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 ## question
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## Skills
@@ -70,6 +70,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## cpp
+- [Tips](https://github.com/dululu/notes/issues/23)--2024-01-21
 - [C++](https://github.com/dululu/notes/issues/19)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
@@ -80,7 +81,6 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 收藏文章
 - [2024](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## 文章
-- [自省](https://github.com/dululu/notes/issues/13)--2024-01-06
 - [高效学习方法](https://github.com/dululu/notes/issues/10)--2024-01-06
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--3 jobs to do--0 jobs done

@@ -80,8 +80,6 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 ## 收藏文章
 - [2024](https://github.com/dululu/notes/issues/11)--2024-01-06
-## 文章
-- [高效学习方法](https://github.com/dululu/notes/issues/10)--2024-01-06
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--3 jobs to do--0 jobs done
 - [ ] q

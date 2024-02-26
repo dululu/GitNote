@@ -76,6 +76,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08
 ## 周记
+- [Last week of  Febernuary](https://github.com/dululu/notes/issues/24)--2024-02-26
 - [银鞍照白马，洒踏如流星。](https://github.com/dululu/notes/issues/22)--2024-01-21
 - [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 ## 收藏文章

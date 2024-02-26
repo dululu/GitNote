@@ -67,7 +67,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08
-- [GitHubActions](https://github.com/dululu/notes/issues/2)--2024-01-04
+- [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## cpp
 - [Tips](https://github.com/dululu/notes/issues/23)--2024-01-21

@@ -59,10 +59,10 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [一些常用函数](https://github.com/dululu/notes/issues/29)--2024-03-05
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 - [面向连接和面向消息的套接字](https://github.com/dululu/notes/issues/27)--2024-03-03
-- [🤔](https://github.com/dululu/notes/issues/26)--2024-02-27
+- [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [Last week of  Febernuary](https://github.com/dululu/notes/issues/24)--2024-02-26
 ## question
-- [🤔](https://github.com/dululu/notes/issues/26)--2024-02-27
+- [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## Skills
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11

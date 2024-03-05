@@ -83,6 +83,5 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 收藏文章
 - [2024](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## TODO
-TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--1 jobs to do--0 jobs done
-- [ ] #2 
+TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9) all done
 

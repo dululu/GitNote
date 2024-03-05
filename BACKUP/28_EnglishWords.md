@@ -3,3 +3,5 @@
 #### [谷歌翻译](https://translate.google.com.hk/?hl=zh-CN)
 - interval       间隔，间距
 - millisecond 毫秒
+- miscellaneous 杂项，冗杂
+- submodules 子模块/组

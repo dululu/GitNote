@@ -56,11 +56,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 - [面向连接和面向消息的套接字](https://github.com/dululu/notes/issues/27)--2024-03-03
 - [🤔](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [Last week of  Febernuary](https://github.com/dululu/notes/issues/24)--2024-02-26
 - [Tips](https://github.com/dululu/notes/issues/23)--2024-01-21
-- [银鞍照白马，洒踏如流星。](https://github.com/dululu/notes/issues/22)--2024-01-21
 ## question
 - [🤔](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08

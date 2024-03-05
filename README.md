@@ -4,9 +4,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [cnblog](https://www.cnblogs.com/asn321/)
 - [RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
 
-
-> - **_迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。_**
-
+> - **人恒过，然后能改；困于心，衡于虑，而后作；征于色，发于声，而后喻。**
+> 
+> - **迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**
+>
+> - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位。**
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
 <table>
@@ -81,5 +83,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 收藏文章
 - [2024](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## TODO
-TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9) all done
+TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--2 jobs to do--0 jobs done
+- [ ] #2 
+- [ ] #20 
 

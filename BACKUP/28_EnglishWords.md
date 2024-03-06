@@ -3,7 +3,7 @@
 #### [谷歌翻译](https://translate.google.com.hk/?hl=zh-CN)
 **_From where ?_**
 
-- [ ] Obsdian
+- [x] Obsdian
 **obsdian**
 - interval       间隔，间距
 - millisecond 毫秒

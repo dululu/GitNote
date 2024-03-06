@@ -55,20 +55,25 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 置顶文章
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 - [一些常用函数](https://github.com/dululu/notes/issues/29)--2024-03-05
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 - [面向连接和面向消息的套接字](https://github.com/dululu/notes/issues/27)--2024-03-03
 - [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
-- [Last week of  Febernuary](https://github.com/dululu/notes/issues/24)--2024-02-26
 ## question
 - [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## Skills
+- [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08
 - [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
+<details><summary>显示更多</summary>
+
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
+</details>
+
 ## cpp
 - [一些常用函数](https://github.com/dululu/notes/issues/29)--2024-03-05
 - [C++](https://github.com/dululu/notes/issues/19)--2024-01-11

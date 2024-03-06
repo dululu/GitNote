@@ -7,6 +7,7 @@
 - [x] 常见
 **obsdian**
 - interval       间隔，间距
+- vault 
 - millisecond 毫秒
 - miscellaneous 杂项，冗杂
 - submodules 子模块/组

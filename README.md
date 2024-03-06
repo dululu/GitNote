@@ -53,13 +53,14 @@ My personal blog using issues and GitHub Actions😴😴😴
 </table>
 
 ## 置顶文章
+- [AI TOOL](https://github.com/dululu/notes/issues/31)--2024-03-06
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [AI TOOL](https://github.com/dululu/notes/issues/31)--2024-03-06
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 - [一些常用函数](https://github.com/dululu/notes/issues/29)--2024-03-05
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 - [面向连接和面向消息的套接字](https://github.com/dululu/notes/issues/27)--2024-03-03
-- [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 ## question
 - [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08

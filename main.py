@@ -15,11 +15,10 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [cnblog](https://www.cnblogs.com/asn321/)
 - [RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
 
-> - **人恒过，然后能改；困于心，衡于虑，而后作；征于色，发于声，而后喻。**
+
 > 
-> - **迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**
+> _**迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**_
 >
-> - **一个人可以通过演戏，同样也可以凭借自己真诚的冲动，来给自己定位。**
 """
 
 BACKUP_DIR = "BACKUP"

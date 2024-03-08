@@ -5,6 +5,8 @@
 1. 删除GitHub文件
 2. `.gitignore`
 3. `stage`
+4. `pull`和`push`使用
+5. `ssh key`使用
 
 - [x] 如何在本地删除传到GitHub的文件
     - 首先进入文件仓库

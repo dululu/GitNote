@@ -56,14 +56,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [AI TOOL](https://github.com/dululu/notes/issues/31)--2024-03-06
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [r](https://github.com/dululu/notes/issues/35)--2024-03-08
 - [错误代码](https://github.com/dululu/notes/issues/34)--2024-03-08
 - [问题汇总3](https://github.com/dululu/notes/issues/33)--2024-03-08
 - [ 计算机中，数据可以使用不同的编码方式进行保存和表示](https://github.com/dululu/notes/issues/32)--2024-03-07
 - [AI TOOL](https://github.com/dululu/notes/issues/31)--2024-03-06
-- [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
-## question
-- [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
-- [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## English
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 ## Git
@@ -96,6 +93,9 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [周记](https://github.com/dululu/notes/issues/21)--2024-01-17
 ## 收藏文章
 - [2024](https://github.com/dululu/notes/issues/11)--2024-01-06
+## 疑问🤔
+- [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
+- [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--3 jobs to do--0 jobs done
 - [ ] #2 

@@ -66,6 +66,8 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## English
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
+## Git
+- [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 ## Skills
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11

@@ -73,6 +73,7 @@
       - [ ] `config`可以配置免密登录到云服务服务器，但是GitHub 不提供远程登录到其服务器的功能，GitHub 是一个托管代码的平台。只能自己购买，如腾讯云，阿里云等等。
       - [ ] `known_hosts`是一个存储 SSH 主机密钥指纹的文件，用于验证远程服务器的身份。当你首次连接到一个新的远程服务器时，SSH 客户端会将**该服务器的公钥指纹保存在 known_hosts** 文件中。
 在后续的连接中，SSH 客户端会**比对**远程服务器的公钥指纹与 known_hosts 文件中保存的指纹，以确保连接的安全性。如果远程服务器的公钥指纹与 known_hosts 文件中保存的指纹不匹配，SSH 客户端会发出警告，防止潜在的安全风险。
-![Uploading image.png…]()
+<img width="296" alt="image" src="https://github.com/dululu/notes/assets/64392262/282ce647-b610-47d3-9e91-cd60ee241860">
+
 
 

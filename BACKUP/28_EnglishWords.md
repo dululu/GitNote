@@ -7,16 +7,16 @@
 - [x] Obsdian
 - [x] Github
 - [x] 常见
-**obsdian**
+## **obsdian**
 - interval       间隔，间距
 - vault           保险库，金库
 - backup       备份，替补，伴奏
 - millisecond 毫秒
 - miscellaneous 杂项，冗杂
 - submodules 子模块/组
-**Github**
-- fatal
+## **Github**
+- fatal           致命的，有害的，命中注定的
 - permanently
-**常见**
+## **常见**
 - argument/arg  争论，论据/变元，自变量
 - parameter 参数

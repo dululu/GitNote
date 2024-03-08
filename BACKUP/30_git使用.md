@@ -75,5 +75,12 @@
 在后续的连接中，SSH 客户端会**比对**远程服务器的公钥指纹与 known_hosts 文件中保存的指纹，以确保连接的安全性。如果远程服务器的公钥指纹与 known_hosts 文件中保存的指纹不匹配，SSH 客户端会发出警告，防止潜在的安全风险。
 <img width="296" alt="image" src="https://github.com/dululu/notes/assets/64392262/282ce647-b610-47d3-9e91-cd60ee241860">
 
+## Git Bash，设置 HOME 环境变量来指定 Git 客户端使用的目录
+
+1. 打开 Git Bash 终端。
+2. 输入以下命令来编辑你的 Bash 配置文件（一般是 `~/.bashrc` 或`~/.bash_profile`）: `vim ~/.bashrc`或`vim ~/.bash_profile`，选择其中一个命令，根据你的系统和配置文件选择。
+3. 在打开的文本编辑器中，将以下行添加到文件底部：
+
+
 
 

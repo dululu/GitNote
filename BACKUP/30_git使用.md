@@ -62,4 +62,6 @@
 ### `ssh key`之旅
 
 > 首先我们要知道`ssh key` 的作用：用于客户端（_Windowns系统_）和服务端（_Github服务器_）之间身份验证和加密通信
-所以可以将客户端生成的公钥`id_rsa.pub`分发到多个远程服务器上，
+所以可以将客户端生成的公钥`id_rsa.pub`分发到多个远程服务器上，进行身份验证。 
+
+-  如果是上传到云端服务器，在 Windows 上，默认情况下，Git 客户端使用的目录是`C:\Users\<YourUserName>\.ssh`，我的Windows使用的是[Git Bash](https://gitforwindows.org/)

@@ -64,4 +64,6 @@
 > 首先我们要知道`ssh key` 的作用：用于客户端（_Windowns系统_）和服务端（_Github服务器_）之间身份验证和加密通信
 所以可以将客户端生成的公钥`id_rsa.pub`分发到多个远程服务器上，进行身份验证。 
 
--  如果是上传到云端服务器，在 Windows 上，默认情况下，Git 客户端使用的目录是`C:\Users\<YourUserName>\.ssh`，我的Windows使用的是[Git Bash](https://gitforwindows.org/)
+-  在 Windows 上，默认情况下，Git 客户端使用的目录是`C:\Users\<YourUserName>\.ssh`，我的Windows使用的是[Git Bash](https://gitforwindows.org/)，可以通过设置 `HOME `环境变量来指定 Git 客户端使用的目录。将` HOME `环境变量设置为你希望用于 SSH 密钥的目录路径，然后将密钥文件复制到该目录中即可。
+- 在Linux中时，我使用的是WSL,直接打开`cd ~/.ssh/`,可以直接将此处的公钥复制到Github上就可以。
+<img width="493" alt="image" src="https://github.com/dululu/notes/assets/64392262/828a20e6-e399-4413-ae0d-a0237edc6af0">

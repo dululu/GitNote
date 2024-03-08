@@ -16,7 +16,7 @@
 - submodules 子模块/组
 ## **Github**
 - fatal           致命的，有害的，命中注定的
-- permanently
+- permanently  永久地，永恒地
 ## **常见**
 - argument/arg  争论，论据/变元，自变量
 - parameter 参数

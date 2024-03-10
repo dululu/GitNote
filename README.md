@@ -54,6 +54,8 @@ My personal blog using issues and GitHub Actions😴😴😴
 
 ## 置顶文章
 - [AI TOOL](https://github.com/dululu/notes/issues/31)--2024-03-06
+- [24-3](https://github.com/dululu/notes/issues/11)--2024-01-06
+- [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
 - [错误代码](https://github.com/dululu/notes/issues/34)--2024-03-08

@@ -90,6 +90,7 @@
 ---
 
 `Personal access tokens (classic)`
+- [Developer Settings](https://github.com/settings/apps)
 个人访问令牌（Personal Access Tokens，PATs）是一种用于访问和认证各种在线服务和API的身份验证方法。它们通常用于用户或应用程序需要以编程方式与服务进行交互，而无需完整的用户登录。
 
 “经典”个人访问令牌是指在更新的身份验证方法（如OAuth 2.0）变得更为普遍之前常用的PAT形式。这些令牌通常由服务提供商生成，并与特定的用户帐户或应用程序关联。

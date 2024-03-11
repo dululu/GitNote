@@ -4,3 +4,4 @@
 > - 突然想在readme文件中实时显示leetcode的刷题数，正好可以用GitHub Actions来运行一个定时任务，定期更新Markdown文档中的刷题数
 
 ## 怎样使用`Action`
+- [ ] https://www.youtube.com/watch?v=R8_veQiYBjI&ab_channel=TechWorldwithNana

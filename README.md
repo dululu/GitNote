@@ -96,6 +96,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 收藏文章
 - [24-3](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## 疑问🤔
+- [问题汇总3](https://github.com/dululu/notes/issues/33)--2024-03-08
 - [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## TODO

@@ -49,6 +49,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 <td>https://martinlwx.github.io/zh-cn/</td>
 <td>太多课程了</td>
 </tr>
+<tr>
+<td>卡瓦邦噶！</td>
+<td>https://www.kawabangga.com/posts/3893</td>
+<td>6</td>
+</tr>
 </tbody>
 </table>
 

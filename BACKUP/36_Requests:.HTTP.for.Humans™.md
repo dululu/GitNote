@@ -58,5 +58,12 @@ print(r.text)
 - Prepared Requests[¶](https://requests.readthedocs.io/en/latest/user/advanced/#prepared-requests)
 预准备请求（Prepared Requests）是指在发送HTTP请求之前，将请求参数、头部信息、URL等预先设置好的请求对象。
 - SSL Cert Verification[¶](https://requests.readthedocs.io/en/latest/user/advanced/#ssl-cert-verification)
-SSL证书验证（`SSL Certificate Verification`）是在进行安全的`HTTP`S通信时，验证服务器端提供的SSL证书的有效性和可信任性的过程。当客户端与服务器建立HTTPS连接时，服务器会向客户端提供一个SSL证书，其中包含了服务器的公钥和其他相关信息。客户端需要验证此证书，以确保与服务器建立的连接是安全的、可信的。
+SSL证书验证（`SSL Certificate Verification`）是在进行安全的`HTTP`S通信时，验证服务器端提供的SSL证书的有效性和可信任性的过程。当客户端与服务器建立HTTPS连接时，**服务器**会向**客户端**提供一个SSL证书，其中包含了**服务器的公钥和其他相关信息。客户端需要验证此证书，以确保与服务器建立的连接是安全的、可信的。**
+>Requests can also ignore verifying the SSL certificate if you set verify to False:忽略SSL证书验证
+By default, verify is set to True. Option verify only applies to host certs.
+```python
+requests.get('https://kennethreitz.org', verify=False)
+<Response [200]>
+```
+- Client Side Certificates[¶](https://requests.readthedocs.io/en/latest/user/advanced/#client-side-certificates)
 

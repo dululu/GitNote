@@ -66,4 +66,7 @@ requests.get('https://kennethreitz.org', verify=False)
 <Response [200]>
 ```
 - Client Side Certificates[¶](https://requests.readthedocs.io/en/latest/user/advanced/#client-side-certificates)
+客户端证书（Client-side Certificates）是用于**客户端身份验证的数字证书。**与传统的服务器端证书用于验证服务器身份不同，客户端证书用于验证客户端的身份。在某些安全通信协议（如`HTTPS`）中，服务器可以要求客户端提供有效的客户端证书，以验证客户端的身份。客户端证书包含了客户端的公钥和其他相关信息，由可信任的证书颁发机构（`Certificate Authority，CA`）签发。
+- CA Certificates[¶](https://requests.readthedocs.io/en/latest/user/advanced/#ca-certificates)
+CA证书（CA Certificates）是由可信任的证书颁发机构（Certificate Authority，CA）签发的数字证书。**CA证书用于验证其他证书的真实性和可信任性。**
 

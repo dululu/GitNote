@@ -70,3 +70,24 @@ requests.get('https://kennethreitz.org', verify=False)
 - CA Certificates[¶](https://requests.readthedocs.io/en/latest/user/advanced/#ca-certificates)
 CA证书（CA Certificates）是由可信任的证书颁发机构（Certificate Authority，CA）签发的数字证书。**CA证书用于验证其他证书的真实性和可信任性。**
 
+
+
+---
+
+- Body Content Workflow[¶](https://requests.readthedocs.io/en/latest/user/advanced/#body-content-workflow)
+- Keep-Alive[¶](https://requests.readthedocs.io/en/latest/user/advanced/#keep-alive)
+Excellent news — thanks to urllib3, keep-alive is 100% automatic within a session! Any requests that you make within a session will automatically reuse the appropriate connection!
+- Streaming Uploads[¶](https://requests.readthedocs.io/en/latest/user/advanced/#streaming-uploads)
+```python
+with open('massive-body', 'rb') as f:
+    requests.post('http://some.url/streamed', data=f)
+```
+- POST Multiple Multipart-Encoded Files[¶](https://requests.readthedocs.io/en/latest/user/advanced/#post-multiple-multipart-encoded-files)
+- Event Hooks[¶](https://requests.readthedocs.io/en/latest/user/advanced/#event-hooks)
+事件钩子（Event Hooks）是一种编程概念，用于在特定事件发生时触发自定义的代码逻辑。它允许开发人员通过注册回调函数来响应特定的事件，以执行额外的操作或处理特定的情况。
+- Custom Authentication[¶](https://requests.readthedocs.io/en/latest/user/advanced/#custom-authentication)
+Requests allows you to specify your own authentication mechanism.
+Requests provides two common authentication scheme implementations in requests.auth: [HTTPBasicAuth](https://requests.readthedocs.io/en/latest/api/#requests.auth.HTTPBasicAuth) and [HTTPDigestAuth](https://requests.readthedocs.io/en/latest/api/#requests.auth.HTTPDigestAuth).
+- Streaming Requests[¶](https://requests.readthedocs.io/en/latest/user/advanced/#streaming-requests)
+With [Response.iter_lines()](https://requests.readthedocs.io/en/latest/api/#requests.Response.iter_lines) you can easily iterate over streaming APIs such as the [Twitter Streaming API](https://dev.twitter.com/streaming/overview).
+- Proxies[¶](https://requests.readthedocs.io/en/latest/user/advanced/#proxies)

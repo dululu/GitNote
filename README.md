@@ -76,6 +76,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [ urllib3](https://github.com/dululu/notes/issues/38)--2024-03-30
 - [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
 - [Requests: HTTP for Humans™](https://github.com/dululu/notes/issues/36)--2024-03-30
+- [Status Codes¶](https://github.com/dululu/notes/issues/34)--2024-03-08
 ## Skills
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11

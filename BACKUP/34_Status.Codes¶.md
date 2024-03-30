@@ -30,3 +30,7 @@ Traceback (most recent call last):
     raise http_error
 requests.exceptions.HTTPError: 404 Client Error
 ```
+
+---
+
+- 301 Redirection : HTTP状态码301表示"Moved Permanently"（永久重定向）。当服务器收到请求后，它会返回301状态码来指示请求的资源已永久移动到了一个新的位置。

@@ -63,23 +63,26 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [ urllib3](https://github.com/dululu/notes/issues/38)--2024-03-30
+- [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
+- [Requests: HTTP for Humans™](https://github.com/dululu/notes/issues/36)--2024-03-30
 - [错误代码](https://github.com/dululu/notes/issues/34)--2024-03-08
 - [问题汇总3](https://github.com/dululu/notes/issues/33)--2024-03-08
-- [ 计算机中，数据可以使用不同的编码方式进行保存和表示](https://github.com/dululu/notes/issues/32)--2024-03-07
-- [AI TOOL](https://github.com/dululu/notes/issues/31)--2024-03-06
-- [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 ## English
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 ## Git
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
+## Python
+- [ urllib3](https://github.com/dululu/notes/issues/38)--2024-03-30
 ## Skills
+- [Requests: HTTP for Humans™](https://github.com/dululu/notes/issues/36)--2024-03-30
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08
-- [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 <details><summary>显示更多</summary>
 
+- [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 </details>
 
@@ -101,6 +104,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 收藏文章
 - [24-3](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## 疑问🤔
+- [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
 - [问题汇总3](https://github.com/dululu/notes/issues/33)--2024-03-08
 - [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08

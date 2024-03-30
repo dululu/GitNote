@@ -74,15 +74,16 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 ## Python
 - [ urllib3](https://github.com/dululu/notes/issues/38)--2024-03-30
-## Skills
+- [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
 - [Requests: HTTP for Humans™](https://github.com/dululu/notes/issues/36)--2024-03-30
+## Skills
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 - [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/notes/issues/18)--2024-01-11
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/notes/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/notes/issues/15)--2024-01-08
+- [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 <details><summary>显示更多</summary>
 
-- [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 </details>
 
@@ -104,7 +105,6 @@ My personal blog using issues and GitHub Actions😴😴😴
 ## 收藏文章
 - [24-3](https://github.com/dululu/notes/issues/11)--2024-01-06
 ## 疑问🤔
-- [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
 - [问题汇总3](https://github.com/dululu/notes/issues/33)--2024-03-08
 - [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08

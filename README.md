@@ -63,16 +63,17 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [字符串格式化](https://github.com/dululu/notes/issues/39)--2024-03-30
 - [ urllib3](https://github.com/dululu/notes/issues/38)--2024-03-30
 - [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
 - [Requests: HTTP for Humans™](https://github.com/dululu/notes/issues/36)--2024-03-30
 - [Status Codes¶](https://github.com/dululu/notes/issues/34)--2024-03-08
-- [问题汇总3](https://github.com/dululu/notes/issues/33)--2024-03-08
 ## English
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 ## Git
 - [git使用](https://github.com/dululu/notes/issues/30)--2024-03-06
 ## Python
+- [字符串格式化](https://github.com/dululu/notes/issues/39)--2024-03-30
 - [ urllib3](https://github.com/dululu/notes/issues/38)--2024-03-30
 - [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
 - [Requests: HTTP for Humans™](https://github.com/dululu/notes/issues/36)--2024-03-30

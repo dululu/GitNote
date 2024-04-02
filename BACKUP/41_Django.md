@@ -64,3 +64,36 @@ def index(request):
 ```
 再次运行`Django`时就可以返回来自客户端的回应
 
+
+
+---
+
+## 模板
+在 APP 文件夹中创建一个 `templates` 文件夹，一般用来存放`html`文件,如何丰富页面：返回`templates`模板。
+- 修改示图
+```python
+from django.http import HttpResponse
+from django.template import loader
+
+def index(request):
+# 加载模板
+  template = loader.get_template('myfirst.html')
+# 返回响应
+  return HttpResponse(template.render())
+```
+- `django.http` 模块包含了与 `HTTP` 请求和响应相关的类和函数。其中，`HttpResponse `是一个用于构造 `HTTP` 响应的类。你可以通过创建 `HttpResponse` 对象并将内容作为参数传递给它来构建响应。
+- `django.template.loader` 模块提供了加载模板的功能。它包含了一个名为 `loader` 的对象，你可以使用它的方法来加载和渲染 `Django` 模板。模板是用于生成动态内容的文件，允许你将数据和 `HTML` 或其他文本组合在一起。
+
+## 更改设置`setting.py`
+告诉 `Django `一个新的应用程序已创建,查找`INSTALLED_APPS[]` 列表并添加成员应用程序
+```python
+...  # 省略默认
+'xiaomi.apps.XiaomiConfig'
+```
+然后运行
+```python
+py manage.py migrate #有时需要指定Python的版本
+```
+`py manage.py migrate` 命令通常在 `Django` 项目中使用，用于执行待处理的数据库迁移。当你运行这个命令时，`Django` 将会检查项目中定义的数据库模型的迁移，并将必要的更改应用到数据库中，以使其与模型保持同步。在修改模型或创建新的迁移时，定期运行 `migrate`命令是一个好习惯，以确保数据库模式是最新的。
+
+## 创建表（模型）

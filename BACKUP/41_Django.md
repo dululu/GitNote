@@ -73,7 +73,7 @@ def index(request):
 
 ---
 
-## 模板
+## 创建表（模型）
 在 APP 文件夹中创建一个 `templates` 文件夹，一般用来存放`html`文件,如何丰富页面：返回`templates`模板。
 - 修改示图
 ```python

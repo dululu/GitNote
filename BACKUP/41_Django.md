@@ -33,6 +33,26 @@ python manage.py runserver
 - 然后视图将数据发送到模板文件夹中的指定模板。
 - 模板包含 `HTML` 和 `Django` 标记，并使用数据将完成的 `HTML` 内容返回给浏览器
 
+### **启动`Django`->`Django`检查`url.py`文件->调用与`URL`匹配的示图**
 
+## **关于根路由**
+  在与 `views.py` 文件相同的文件夹中创建一个名为 `urls.py` 的文件，并在其中输入以下代码：
+  ```python
+  from django.urls import path
+  from . import views
+  urlpatterns = [
+      path('', views.index, name='index'),
+  ]
+  ```
+  在 根路由`import`语句中添加 `include` 模块，并在列表中添加一个 `path()` 函数。文件将如下所示：
+  ```python
+  from django.contrib import admin
+  from django.urls import include, path
+  
+  urlpatterns = [
+    path('members/', include('members.urls')),  # 这里的是App的名称
+    path('admin/', admin.site.urls),
+  ]
+  ```
 
 

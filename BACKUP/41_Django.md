@@ -1,6 +1,11 @@
 # [Django](https://github.com/dululu/notes/issues/41)
 
 ## Django[<_>](https://github.com/jaywcjlove/reference/blob/main/docs/django.md)
+M models
+T templates
+V views
+MTV
+当点击一个`url`时，
 ---
 ### 环境配置
 - 安装`Django`

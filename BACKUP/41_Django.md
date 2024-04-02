@@ -1,5 +1,6 @@
 # [Django](https://github.com/dululu/notes/issues/41)
 
+
 ## Django
 ---
 ### 环境配置
@@ -54,5 +55,13 @@ python manage.py runserver
     path('admin/', admin.site.urls),
   ]
   ```
+`Django` 视图是接受 `http` 请求并返回 `http` 响应的 `Python` 函数
+```python
+from django.shortcuts import render
+from django.http import HttpResponse
+
+def index(request):
+    return HttpResponse("Hello world!")
+```
 
 

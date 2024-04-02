@@ -1,6 +1,5 @@
 # [Django](https://github.com/dululu/notes/issues/41)
 
-
 ## Django
 ---
 ### 环境配置
@@ -63,5 +62,5 @@ from django.http import HttpResponse
 def index(request):
     return HttpResponse("Hello world!")
 ```
-
+再次运行`Django`时就可以返回来自客户端的回应
 

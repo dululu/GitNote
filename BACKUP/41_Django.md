@@ -102,3 +102,20 @@ py manage.py migrate #有时需要指定Python的版本
 `py manage.py migrate` 命令通常在 `Django` 项目中使用，用于执行待处理的数据库迁移。当你运行这个命令时，`Django` 将会检查项目中定义的数据库模型的迁移，并将必要的更改应用到数据库中，以使其与模型保持同步。在修改模型或创建新的迁移时，定期运行 `migrate`命令是一个好习惯，以确保数据库模式是最新的。
 
 ## 创建表（模型）
+`models.py` 创建一个成员类,并描述其中的表字段：
+```python
+from django.db import models
+
+class Members(models.Model):
+  firstname = models.CharField(max_length=255)
+  lastname = models.CharField(max_length=255)
+```
+#### 应用程序的数据库迁移文件
+```python
+py manage.py makemigrations appname
+
+py manage.py migrate
+```
+根据模型的更改生成一个迁移文件,该迁移文件包含有关如何修改数据库结构以使其与新的模型定义保持同步的指令。
+在运行该命令之后，你应该能够在` "members"` 应用程序的目录下看到一个名为 `0001_initial.py`（或类似的）的迁移文件。该文件描述了数据库结构的初始状态。
+然后，你可以运行` py manage.py migrate `命令来应用这个迁移文件，将更改应用到实际的数据库中。

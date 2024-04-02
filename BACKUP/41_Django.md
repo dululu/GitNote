@@ -5,7 +5,6 @@ M models
 T templates
 V views
 MTV
-当点击一个`url`时，
 ---
 ### 环境配置
 - 安装`Django`
@@ -119,3 +118,10 @@ py manage.py migrate
 根据模型的更改生成一个迁移文件,该迁移文件包含有关如何修改数据库结构以使其与新的模型定义保持同步的指令。
 在运行该命令之后，你应该能够在` "members"` 应用程序的目录下看到一个名为 `0001_initial.py`（或类似的）的迁移文件。该文件描述了数据库结构的初始状态。
 然后，你可以运行` py manage.py migrate `命令来应用这个迁移文件，将更改应用到实际的数据库中。
+
+---
+
+## [Django 模板](https://github.com/jaywcjlove/reference/blob/main/docs/django.md#django-%E6%A8%A1%E6%9D%BF)
+---
+
+## [添加静态文件](https://github.com/jaywcjlove/reference/blob/main/docs/django.md#%E6%B7%BB%E5%8A%A0%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6)

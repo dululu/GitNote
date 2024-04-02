@@ -1,9 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-03-30T18:06:57.854873+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/40</id><title>Python爬虫</title><updated>2024-03-30T18:06:58.092159+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/notes</id><title>RSS feed of dululu's notes</title><updated>2024-04-02T12:09:50.453746+00:00</updated><link href="https://github.com/dululu/notes"/><link href="https://raw.githubusercontent.com/dululu/notes/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/notes/issues/41</id><title>Django</title><updated>2024-04-02T12:09:50.732166+00:00</updated><content type="html"><![CDATA[<h2>Django</h2>
+<hr />
+<h3>环境配置</h3>
+<ul>
+<li>安装<code>Django</code></li>
+</ul>
+<pre><code class="language-python">pip3.10 install django    // 最好指定Python的版本
+</code></pre>
+<p>需要将<code>Python</code>加入环境变量path中
+在终端中输入<code>django-admin</code>,出现提示即可</p>
+<h2>创建项目</h2>
+<blockquote>
+<p>django-admin startproject  su7</p>
+</blockquote>
+<ul>
+<li>项目文件目录</li>
+<li>App</li>
+</ul>
+<blockquote>
+<p><strong>创建app:</strong> python manage.py startapp app01</p>
+</blockquote>
+<p><strong>所以最终一共有两个主要的文件目录：一个是默认的文件，一个是项目生成时创建的文件。</strong>
+<img width="326" alt="image" src="https://github.com/dululu/notes/assets/64392262/ea5d9ce5-38b6-43fc-ae3e-79e3f43b4509"></p>
+<h2>启动运行Django</h2>
+]]></content><link href="https://github.com/dululu/notes/issues/41"/><category term="Python"/><published>2024-03-30T18:06:26+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/40</id><title>Python爬虫</title><updated>2024-04-02T12:09:50.832199+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p><a href="https://piaosanlang.gitbooks.io/spiders/content/01day/section1.3.html">基本原理</a></p>
 </blockquote>
-]]></content><link href="https://github.com/dululu/notes/issues/40"/><category term="Python"/><published>2024-03-30T18:05:04+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/39</id><title>字符串格式化</title><updated>2024-03-30T18:06:58.201657+00:00</updated><content type="html"><![CDATA[<h2><a href="https://pyformat.info/">字符串格式化</a></h2>
-]]></content><link href="https://github.com/dululu/notes/issues/39"/><category term="Python"/><published>2024-03-30T17:52:51+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/38</id><title> urllib3</title><updated>2024-03-30T18:06:58.282332+00:00</updated><content type="html"><![CDATA[<p><code>urllib3</code>是一个<code>Python</code>的第三方库，用于在<code>HTTP</code>请求中处理连接池、编码、重试等功能。它提供了一个高级的<code>HTTP</code>客户端接口，简化了与Web服务器进行通信的过程。</p>
+]]></content><link href="https://github.com/dululu/notes/issues/40"/><category term="Python"/><published>2024-03-30T18:05:04+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/39</id><title>字符串格式化</title><updated>2024-04-02T12:09:50.930761+00:00</updated><content type="html"><![CDATA[<h2><a href="https://pyformat.info/">字符串格式化</a></h2>
+]]></content><link href="https://github.com/dululu/notes/issues/39"/><category term="Python"/><published>2024-03-30T17:52:51+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/38</id><title> urllib3</title><updated>2024-04-02T12:09:51.042347+00:00</updated><content type="html"><![CDATA[<p><code>urllib3</code>是一个<code>Python</code>的第三方库，用于在<code>HTTP</code>请求中处理连接池、编码、重试等功能。它提供了一个高级的<code>HTTP</code>客户端接口，简化了与Web服务器进行通信的过程。</p>
 <ul>
 <li>使用<code>urllib3</code>库可以进行<code>HTTP</code>请求的发送和处理。可以创建<code>PoolManager</code>对象来管理连接池，并使用该对象发送<code>GET</code>、<code>POST</code>等类型的请求。<code>urllib3</code>提供了对请求和响应的各种处理方法，例如设置请求头部、处理响应内容等。</li>
 </ul>
@@ -69,7 +93,7 @@ status_code = response.status
 headers = response.headers
 data = response.data
 </code></pre>
-]]></content><link href="https://github.com/dululu/notes/issues/38"/><category term="Python"/><published>2024-03-30T06:13:17+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/37</id><title> HTTP/1.1 </title><updated>2024-03-30T18:06:58.375924+00:00</updated><content type="html"><![CDATA[<p>当客户端使用HTTP/1.1与服务器进行通信时，以下是一个简单的示例：</p>
+]]></content><link href="https://github.com/dululu/notes/issues/38"/><category term="Python"/><published>2024-03-30T06:13:17+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/37</id><title> HTTP/1.1 </title><updated>2024-04-02T12:09:51.167985+00:00</updated><content type="html"><![CDATA[<p>当客户端使用HTTP/1.1与服务器进行通信时，以下是一个简单的示例：</p>
 <pre><code>GET /index.html HTTP/1.1
 Host: www.example.com
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
@@ -108,7 +132,7 @@ username=johndoe&amp;password=123
 <li>数据长度限制：GET请求的<strong>数据传输受到URL长度限制的影响</strong>，不同的浏览器和服务器有不同的限制值，通常在几千个字符左右。而POST请求的数据传输没有固定的长度限制，但服务器和应用程序可能会设置自己的限制。</li>
 <li>数据类型：G<strong>ET请求通常用于获取资源或从服务器获取数据，而POST请求通常用于向服务器提交数据</strong>，例如表单提交、文件上传等。POST请求允许发送更多类型的数据，而GET请求主要适用于发送简单的键值对数据。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/37"/><category term="Python"/><published>2024-03-30T05:30:25+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/36</id><title>Requests: HTTP for Humans™</title><updated>2024-03-30T18:06:58.469798+00:00</updated><content type="html"><![CDATA[<h2><a href="https://requests.readthedocs.io/en/latest/">Requests</a></h2>
+]]></content><link href="https://github.com/dululu/notes/issues/37"/><category term="Python"/><published>2024-03-30T05:30:25+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/36</id><title>Requests: HTTP for Humans™</title><updated>2024-04-02T12:09:51.287773+00:00</updated><content type="html"><![CDATA[<h2><a href="https://requests.readthedocs.io/en/latest/">Requests</a></h2>
 <ul>
 <li><a href="https://github.com/dululu/notes/issues/37">HTTP/1.1</a></li>
 <li><a href="https://github.com/dululu/notes/issues/38">urllib3</a></li>
@@ -150,7 +174,7 @@ If a response contains some Cookies, you can quickly access them,Cookies are ret
 You can tell Requests to stop waiting for a response after a given number of seconds with the <code>timeout</code> parameter.</li>
 <li>Errors and Exceptions<a href="https://requests.readthedocs.io/en/latest/user/quickstart/#errors-and-exceptions">¶</a></li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/36"/><category term="Python"/><published>2024-03-30T05:05:15+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/34</id><title>Status Codes¶</title><updated>2024-03-30T18:06:58.576765+00:00</updated><content type="html"><![CDATA[<p>HTTP状态码（Status Codes）是在HTTP协议中用于表示请求的处理结果的三位数代码。每个状态码都具有特定的含义，用于指示请求是否成功、遇到错误、需要进一步操作等。
+]]></content><link href="https://github.com/dululu/notes/issues/36"/><category term="Python"/><published>2024-03-30T05:05:15+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/34</id><title>Status Codes¶</title><updated>2024-04-02T12:09:51.392045+00:00</updated><content type="html"><![CDATA[<p>HTTP状态码（Status Codes）是在HTTP协议中用于表示请求的处理结果的三位数代码。每个状态码都具有特定的含义，用于指示请求是否成功、遇到错误、需要进一步操作等。
 以下是一些常见的HTTP状态码及其含义：</p>
 <ul>
 <li>200 OK：请求成功。服务器成功处理了请求并返回所需的内容。</li>
@@ -184,7 +208,7 @@ Traceback (most recent call last):
     raise http_error
 requests.exceptions.HTTPError: 404 Client Error
 </code></pre>
-]]></content><link href="https://github.com/dululu/notes/issues/34"/><category term="Python"/><published>2024-03-08T19:53:42+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/33</id><title>问题汇总3</title><updated>2024-03-30T18:06:58.664429+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/34"/><category term="Python"/><published>2024-03-08T19:53:42+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/33</id><title>问题汇总3</title><updated>2024-04-02T12:09:51.495095+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> 相对路径和绝对路径</li>
 </ul>
 <p><strong><em>路径</em></strong></p>
@@ -192,7 +216,7 @@ requests.exceptions.HTTPError: 404 Client Error
 <li><strong>绝对路径</strong>是指从文件系统的根目录开始一直到目标文件或目录的完整路径。如<code>C:\Users\Username\Documents\File.txt</code>是一个<strong>Windows</strong>系统下的绝对路径。<em>在类Unix系统（如<strong>Linux和macOS</strong>）中</em>，绝对路径以斜杠（/）开始，然后按照目录结构一级一级地指定目标位置。例如，<code>/home/username/Documents/file.txt</code>是一个Linux系统下的绝对路径。</li>
 <li>相对路径是相对于当前工作目录或当前所在位置的路径。它不需要提供完整的路径，而是根据当前位置和目标位置之间的相对位置来指定。相对路径可以使用特殊符号来表示路径关系。在Windows系统中，两个常用的特殊符号是&quot;..&quot;和&quot;.&quot;。&quot;..&quot;表示上一级目录，&quot;.&quot;表示当前目录。例如，假设当前工作目录是<code>C:\Users\Username</code>，要指向文件<code>C:\Users\Username\Documents\File.txt</code>，可以使用相对路径<code>..\Documents\File.txt</code>。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/33"/><category term="疑问🤔"/><published>2024-03-08T07:57:24+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/32</id><title> 计算机中，数据可以使用不同的编码方式进行保存和表示</title><updated>2024-03-30T18:06:58.760642+00:00</updated><content type="html"><![CDATA[<h3>关于<code>char</code>和<code>int</code></h3>
+]]></content><link href="https://github.com/dululu/notes/issues/33"/><category term="疑问🤔"/><published>2024-03-08T07:57:24+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/32</id><title> 计算机中，数据可以使用不同的编码方式进行保存和表示</title><updated>2024-04-02T12:09:51.605254+00:00</updated><content type="html"><![CDATA[<h3>关于<code>char</code>和<code>int</code></h3>
 <ul>
 <li>
 众所周知在c++中<code>char</code>占一个字节，8位；<code>int</code>占4个字节，32位；
@@ -207,7 +231,7 @@ requests.exceptions.HTTPError: 404 Client Error
 <blockquote>
 <p>还有Unicode 和 UTF-8（一种可变长度的 Unicode 编码）</p>
 </blockquote>
-]]></content><link href="https://github.com/dululu/notes/issues/32"/><category term="cpp"/><published>2024-03-07T12:33:39+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/31</id><title>AI TOOL</title><updated>2024-03-30T18:06:58.854004+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/32"/><category term="cpp"/><published>2024-03-07T12:33:39+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/31</id><title>AI TOOL</title><updated>2024-04-02T12:09:51.717870+00:00</updated><content type="html"><![CDATA[<ul>
 <li><a href="https://poe.com/chat/230btdq08a1544w930h">poe</a></li>
 </ul>
 <blockquote>
@@ -229,7 +253,7 @@ requests.exceptions.HTTPError: 404 Client Error
 1.https://doc.miyun.app/
 2.规则代理，换路线。
 3.清理DNS缓存</p>
-]]></content><link href="https://github.com/dululu/notes/issues/31"/><category term="Top"/><published>2024-03-06T22:06:29+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/30</id><title>git使用</title><updated>2024-03-30T18:06:58.945931+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/notes/issues/31"/><category term="Top"/><published>2024-03-06T22:06:29+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/30</id><title>git使用</title><updated>2024-04-02T12:09:51.805985+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>原则上是碰到问题再用</p>
 </blockquote>
 <ol>
@@ -272,7 +296,7 @@ requests.exceptions.HTTPError: 404 Client Error
 在Git中，&quot;stage&quot;是指将文件或更改添加到暂存区（也称为索引）的过程。暂存区是位于Git仓库中的一个中间区域，用于准备将要提交的更改。
 当您对文件进行修改后，可以使用<code>git add .</code>命令将更改添加到暂存区.</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/30"/><category term="Skills"/><category term="Git"/><published>2024-03-06T20:35:39+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/29</id><title>一些常用函数</title><updated>2024-03-30T18:06:59.039718+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/30"/><category term="Skills"/><category term="Git"/><published>2024-03-06T20:35:39+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/29</id><title>一些常用函数</title><updated>2024-04-02T12:09:51.902761+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> <code>strcpy</code>函数</li>
 <li><input disabled="" type="checkbox"> <code>memset</code>函数</li>
 <li><input disabled="" type="checkbox"> <code>atoi</code>函数</li>
@@ -301,7 +325,7 @@ atoi 是一个 C 语言中的函数，用于将字符串转换为整数（intege
 用于计算数据类型或变量的字节大小。
 type 是一个数据类型，如 <code>int</code>、<code>float</code>、<code>char</code> 等，或者是一个具体的变量、数组、结构体等表达式。
 函数的参数必须是_变量_。<code>int</code>是操作符</p>
-]]></content><link href="https://github.com/dululu/notes/issues/29"/><category term="cpp"/><published>2024-03-05T14:48:25+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/28</id><title>EnglishWords</title><updated>2024-03-30T18:06:59.137182+00:00</updated><content type="html"><![CDATA[<h4><a href="https://translate.google.com.hk/?hl=zh-CN">谷歌翻译</a></h4>
+]]></content><link href="https://github.com/dululu/notes/issues/29"/><category term="cpp"/><published>2024-03-05T14:48:25+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/28</id><title>EnglishWords</title><updated>2024-04-02T12:09:52.006061+00:00</updated><content type="html"><![CDATA[<h4><a href="https://translate.google.com.hk/?hl=zh-CN">谷歌翻译</a></h4>
 <h3><a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/backup">剑桥翻译</a></h3>
 <p><strong><em>From where ?</em></strong></p>
 <ul>
@@ -328,7 +352,7 @@ type 是一个数据类型，如 <code>int</code>、<code>float</code>、<code>c
 <li>argument/arg  争论，论据/变元，自变量</li>
 <li>parameter 参数</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/28"/><category term="English"/><published>2024-03-05T11:54:32+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/27</id><title>面向连接和面向消息的套接字</title><updated>2024-03-30T18:06:59.240124+00:00</updated><content type="html"><![CDATA[<p>面向连接的套接字：stream</p>
+]]></content><link href="https://github.com/dululu/notes/issues/28"/><category term="English"/><published>2024-03-05T11:54:32+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/27</id><title>面向连接和面向消息的套接字</title><updated>2024-04-02T12:09:52.112423+00:00</updated><content type="html"><![CDATA[<p>面向连接的套接字：stream</p>
 <ul>
 <li>收发数据的套接字内有缓冲（buffer）,就是字节数组。不存在数据边界</li>
 <li>缓冲可能·被填满，套接字无法再接收数据，传输套接字停止传输。</li>
@@ -344,7 +368,7 @@ type 是一个数据类型，如 <code>int</code>、<code>float</code>、<code>c
 <li>不存在<strong>连接</strong>的概念。</li>
 <li>不可靠的，不按顺序的，数据高速传输为目的。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/27"/><published>2024-03-03T19:26:57+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/26</id><title>问题汇总2</title><updated>2024-03-30T18:06:59.340082+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/notes/issues/27"/><published>2024-03-03T19:26:57+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/26</id><title>问题汇总2</title><updated>2024-04-02T12:09:52.208203+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>list2</p>
 </blockquote>
 <ul>
@@ -441,7 +465,7 @@ Pull Request（PR）是一种在分布式版本控制系统中协作开发的机
 <li>提交 Pull Request：检查 Pull Request 的详细信息，包括标题、描述和更改的文件。确认后，点击 &quot;Create Pull Request&quot; 提交您的 Pull Request。</li>
 <li>等待审核：项目维护者将会对您的代码进行审核和评审。他们可能会提出问题、建议修改或讨论更改。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/26"/><category term="疑问🤔"/><published>2024-02-27T16:29:26+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/24</id><title>Last week of  Febernuary</title><updated>2024-03-30T18:06:59.448401+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/notes/issues/26"/><category term="疑问🤔"/><published>2024-02-27T16:29:26+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/24</id><title>Last week of  Febernuary</title><updated>2024-04-02T12:09:52.327812+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>其实也可以算作是3月的第一周，但前天还是元宵节，姑且还算做是正月，那就结尾吧。✍️</p>
 </blockquote>
 <h1>2024年02月26日 22:49:12 begin</h1>
@@ -452,7 +476,7 @@ Pull Request（PR）是一种在分布式版本控制系统中协作开发的机
 <li>寻找工作
 ....... </li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/24"/><category term="周记"/><published>2024-02-26T14:51:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/22</id><title>银鞍照白马，洒踏如流星。</title><updated>2024-03-30T18:06:59.544886+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/notes/issues/24"/><category term="周记"/><published>2024-02-26T14:51:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/22</id><title>银鞍照白马，洒踏如流星。</title><updated>2024-04-02T12:09:52.470108+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>为什么起这么名字，因为最近太背了，我希望自己能过得潇洒一点。看罗翔老师的《十三邀》采访，听他念一遍这句诗就喜欢上了，如此洒脱不羁，以前的我也是这样的哈哈。我已经23了，我总是疏于表达自己的情感，想得很好，实施起来却非常的困难，喜欢就是喜欢，不喜欢就是不喜欢，撞到南墙之后才知道南墙到底硬不硬，快速试错，降低犯错的机会成本，从错误中寻找正确，人总是要犯错的，完美主义不可行。</p>
 </blockquote>
 <ul>
@@ -473,10 +497,10 @@ Pull Request（PR）是一种在分布式版本控制系统中协作开发的机
 <li>健身</li>
 <li>健康饮食</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/22"/><category term="周记"/><published>2024-01-21T15:25:57+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/21</id><title>周记</title><updated>2024-03-30T18:06:59.644949+00:00</updated><content type="html"><![CDATA[<p>见贤思齐
+]]></content><link href="https://github.com/dululu/notes/issues/22"/><category term="周记"/><published>2024-01-21T15:25:57+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/21</id><title>周记</title><updated>2024-04-02T12:09:52.590050+00:00</updated><content type="html"><![CDATA[<p>见贤思齐
 灵感来源:https://coldrain.ink/#/home
 有计划➕执行力强➕web3：<a href="https://polebug.github.io/">https://polebug.github.io/</a></p>
-]]></content><link href="https://github.com/dululu/notes/issues/21"/><category term="周记"/><published>2024-01-17T20:45:12+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/20</id><title>Neovim </title><updated>2024-03-30T18:06:59.735608+00:00</updated><content type="html"><![CDATA[<h3>Step1:安装<a href="https://github.com/neovim/neovim/blob/master/INSTALL.md">Neovim</a></h3>
+]]></content><link href="https://github.com/dululu/notes/issues/21"/><category term="周记"/><published>2024-01-17T20:45:12+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/20</id><title>Neovim </title><updated>2024-04-02T12:09:52.682909+00:00</updated><content type="html"><![CDATA[<h3>Step1:安装<a href="https://github.com/neovim/neovim/blob/master/INSTALL.md">Neovim</a></h3>
 <p>Ubuntu+WSL</p>
 <pre><code class="language-powershell-interactive">sudo apt-get install python-dev python-pip python3-dev
 sudo apt-get install python3-setuptools
@@ -489,14 +513,14 @@ sudo cmake --build build/ --target uninstall
 <p>而是保存在<code> ~/.config/nvim/init.vim</code>,但是 init.vim 只作为入口，真正的配置，是加载的其他的 lua 配置文件
 <a href="https://martinlwx.github.io/zh-cn/config-neovim-from-scratch/">写的太好了😎😎😎</a></p>
 <p>😅 然而我还没弄好 @dululu [2024年01月14日 23:21:49] </p>
-]]></content><link href="https://github.com/dululu/notes/issues/20"/><published>2024-01-14T15:21:59+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/19</id><title>C++</title><updated>2024-03-30T18:06:59.831695+00:00</updated><content type="html"><![CDATA[<ol>
+]]></content><link href="https://github.com/dululu/notes/issues/20"/><published>2024-01-14T15:21:59+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/19</id><title>C++</title><updated>2024-04-02T12:09:52.786607+00:00</updated><content type="html"><![CDATA[<ol>
 <li><a href="https://blog.csdn.net/Neo_21/article/details/129283639">c++基础/类和对象</a></li>
 <li><a href="https://blog.csdn.net/Neo_21/article/details/129318605">c++继承机制</a></li>
 <li><a href="https://blog.csdn.net/Neo_21/article/details/129325451">虚函数与多态性</a></li>
 <li><a href="https://blog.csdn.net/Neo_21/article/details/129407024">c++指针</a></li>
 </ol>
 <p><strong>https://github.com/jiayuancs/Cpp-Primer</strong></p>
-]]></content><link href="https://github.com/dululu/notes/issues/19"/><category term="cpp"/><published>2024-01-11T16:13:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/18</id><title>快速学习C和C++，基础语法和优化策略（三）</title><updated>2024-03-30T18:06:59.917212+00:00</updated><content type="html"><![CDATA[<h3>函数 functions</h3>
+]]></content><link href="https://github.com/dululu/notes/issues/19"/><category term="cpp"/><published>2024-01-11T16:13:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/18</id><title>快速学习C和C++，基础语法和优化策略（三）</title><updated>2024-04-02T12:09:52.874995+00:00</updated><content type="html"><![CDATA[<h3>函数 functions</h3>
 <h4>内联函数 inline</h4>
 <p>程序运行效率,用空间换时间。</p>
 <pre><code class="language-cpp">// 使用函数调用
@@ -600,7 +624,7 @@ float (*norm_ptr)(float x, float y);
 float norml2(float x, float y);
 float (&amp;norm_ptr)(float x, float y) = norml1;
 </code></pre>
-]]></content><link href="https://github.com/dululu/notes/issues/18"/><category term="Skills"/><category term="cpp"/><published>2024-01-11T06:35:36+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/17</id><title>快速学习C和C++，基础语法和优化策略。（二）</title><updated>2024-03-30T18:07:00.021528+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
+]]></content><link href="https://github.com/dululu/notes/issues/18"/><category term="Skills"/><category term="cpp"/><published>2024-01-11T06:35:36+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/17</id><title>快速学习C和C++，基础语法和优化策略。（二）</title><updated>2024-04-02T12:09:52.996728+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
 <h4>结构体，联合体，枚举类型</h4>
 <ul>
 <li><code>struct</code> 定义结构体</li>
@@ -694,7 +718,7 @@ int *p9 = new Student[16];
 //释放
 delete p1;
 </code></pre>
-]]></content><link href="https://github.com/dululu/notes/issues/17"/><category term="Skills"/><category term="cpp"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-03-30T18:07:00.132626+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
+]]></content><link href="https://github.com/dululu/notes/issues/17"/><category term="Skills"/><category term="cpp"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/16</id><title>炒蛋问题</title><updated>2024-04-02T12:09:53.099477+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> gdb是啥？</li>
 <li><input checked="" disabled="" type="checkbox"> 为啥WSL可以编译cpp</li>
@@ -806,7 +830,7 @@ cat xx 展示文本
 `C+b+d` 挂起session
 `tmux+a` 打开挂起的session
 </code></pre>
-]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="疑问🤔"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略（一）</title><updated>2024-03-30T18:07:00.235358+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
+]]></content><link href="https://github.com/dululu/notes/issues/16"/><category term="疑问🤔"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/15</id><title>快速学习C和C++，基础语法和优化策略（一）</title><updated>2024-04-02T12:09:53.230156+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
 <strong>文档</strong>: <a href="https://github.com/ShiqiYu/CPP/tree/main/week01">github</a></p>
 <blockquote>
 <p>只是差缺补漏，快速过一遍💨💨💨</p>
@@ -1100,7 +1124,7 @@ float array_sum(*values, size_t length);
 string可以<strong>直接使用运算符</strong>对字符串进行操作。string类没有越界检查
 <img width="617" alt="image" src="https://github.com/dululu/notes/assets/64392262/3cb6200f-588d-4207-b89f-0d2c5c2f4988"></li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><category term="cpp"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>24-3</title><updated>2024-03-30T18:07:00.359692+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/15"/><category term="Skills"/><category term="cpp"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/11</id><title>24-3</title><updated>2024-04-02T12:09:53.401899+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> yihong的2022总结，本博来源。</li>
 <li><input checked="" disabled="" type="checkbox"> 汉语拼音的<code>ü</code>与<code>v</code></li>
 <li><input checked="" disabled="" type="checkbox"> 八股--干就完了😊</li>
@@ -1121,12 +1145,12 @@ string可以<strong>直接使用运算符</strong>对字符串进行操作。str
 </ul>
 <h2><a href="https://github.com/jaywcjlove/reference/blob/main/docs/cpp.md">C++ 备忘清单</a></h2>
 <h2><a href="https://github.com/applenob/Cpp_Primer_Practice">Cpp_Primer_Practice</a></h2>
-]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="Top"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-03-30T18:07:00.453742+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/notes/issues/11"/><category term="Top"/><category term="收藏文章"/><published>2024-01-06T18:04:47+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/9</id><title>需要学习的东西</title><updated>2024-04-02T12:09:53.517347+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> #2 </li>
 <li><input disabled="" type="checkbox"> #20 </li>
 <li><input disabled="" type="checkbox"> 写周记，复盘，记单词，刷leetcode</li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-03-30T18:07:00.553416+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
+]]></content><link href="https://github.com/dululu/notes/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/7</id><title>链接</title><updated>2024-04-02T12:09:53.612731+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
@@ -1136,7 +1160,7 @@ string可以<strong>直接使用运算符</strong>对字符串进行操作。str
 打心后会自动加到友情链接里。</li>
 </ul>
 <p>❤</p>
-]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions和github-pages</title><updated>2024-03-30T18:07:00.647421+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/notes/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/2</id><title>GitHubActions和github-pages</title><updated>2024-04-02T12:09:53.712538+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>最近想重新拾起写日记的习惯，想把blog部署在GitHub上，但是一直不清楚具体方法。<a href="https://polebug.github.io/aboutme/">polebug</a>,本地已经好了，学习如何自动化部署。</li>
 <li>突然想在readme文件中实时显示leetcode的刷题数，正好可以用GitHub Actions来运行一个定时任务，定期更新Markdown文档中的刷题数</li>
@@ -1146,7 +1170,7 @@ string可以<strong>直接使用运算符</strong>对字符串进行操作。str
 <ul>
 <li><input disabled="" type="checkbox"> <a href="https://www.youtube.com/watch?v=R8_veQiYBjI&amp;ab_channel=TechWorldwithNana">https://www.youtube.com/watch?v=R8_veQiYBjI&amp;ab_channel=TechWorldwithNana</a></li>
 </ul>
-]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><category term="Top"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-03-30T18:07:00.736439+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
+]]></content><link href="https://github.com/dululu/notes/issues/2"/><category term="Skills"/><category term="Top"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/notes/issues/1</id><title>博客页面</title><updated>2024-04-02T12:09:53.815272+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
 <ul>
 <li>参考来源：<a href="https://github.com/yihong0618/gitblog/issues/209">yihong</a>&amp;<a href="https://github.com/yihong0618/gitblog/issues/177">这个博客开源了</a></li>
 <li>

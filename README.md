@@ -59,6 +59,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 <td>https://www.kawabangga.com/posts/3893</td>
 <td>爬虫</td>
 </tr>
+<tr>
+<td>大江狗</td>
+<td>https://pythondjango.cn/django/basic-tutorials</td>
+<td>Django</td>
+</tr>
 </tbody>
 </table>
 

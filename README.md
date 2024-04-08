@@ -54,6 +54,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 <td>https://www.kawabangga.com/posts/3893</td>
 <td>6</td>
 </tr>
+<tr>
+<td>🈚️</td>
+<td>https://www.kawabangga.com/posts/3893</td>
+<td>爬虫</td>
+</tr>
 </tbody>
 </table>
 

@@ -56,7 +56,7 @@ My personal blog using issues and GitHub Actions😴😴😴
 </tr>
 <tr>
 <td>🈚️</td>
-<td>https://www.kawabangga.com/posts/3893</td>
+<td>https://piaosanlang.gitbooks.io/spiders/content/03day/section3.7.html</td>
 <td>爬虫</td>
 </tr>
 <tr>

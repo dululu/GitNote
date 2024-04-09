@@ -13,7 +13,7 @@ MD_HEAD = """## MyGitblog
 My personal blog using issues and GitHub Actions😴😴😴
 - [blog](https://dululu-github-io.vercel.app/zh-cn)
 - [cnblog](https://www.cnblogs.com/asn321/)
-- [RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
+- [RSS Feed](https://raw.githubusercontent.com/dululu/notes/main/feed.xml)
 
 
 > 
@@ -272,7 +272,7 @@ def generate_rss_feed(repo, filename, me):
     )
     generator.link(href=repo.html_url)
     generator.link(
-        href=f"https://raw.githubusercontent.com/{repo.full_name}/master/{filename}",
+        href=f"https://raw.githubusercontent.com/{repo.full_name}/main/{filename}",
         rel="self",
     )
     for issue in repo.get_issues():

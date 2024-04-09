@@ -2,7 +2,7 @@
 My personal blog using issues and GitHub Actions😴😴😴
 - [blog](https://dululu-github-io.vercel.app/zh-cn)
 - [cnblog](https://www.cnblogs.com/asn321/)
-- [RSS Feed](https://raw.githubusercontent.com/dululu/notes/master/feed.xml)
+- [RSS Feed](https://raw.githubusercontent.com/dululu/notes/main/feed.xml)
 
 
 > 
@@ -73,11 +73,11 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [q](https://github.com/dululu/notes/issues/44)--2024-04-09
 - [unittest单元测试](https://github.com/dululu/notes/issues/43)--2024-04-08
 - [Windows的Git使用](https://github.com/dululu/notes/issues/42)--2024-04-07
 - [Django](https://github.com/dululu/notes/issues/41)--2024-03-30
 - [Python爬虫](https://github.com/dululu/notes/issues/40)--2024-03-30
-- [字符串格式化](https://github.com/dululu/notes/issues/39)--2024-03-30
 ## English
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 ## Git

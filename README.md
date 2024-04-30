@@ -73,11 +73,12 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [GitHubActions和github-pages](https://github.com/dululu/notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/notes/issues/1)--2024-01-03
 ## 最近更新
+- [挣扎
+](https://github.com/dululu/notes/issues/45)--2024-04-30
 - [unittest单元测试](https://github.com/dululu/notes/issues/43)--2024-04-08
 - [Django](https://github.com/dululu/notes/issues/41)--2024-03-30
 - [字符串格式化](https://github.com/dululu/notes/issues/39)--2024-03-30
 - [ urllib3](https://github.com/dululu/notes/issues/38)--2024-03-30
-- [ HTTP/1.1 ](https://github.com/dululu/notes/issues/37)--2024-03-30
 ## English
 - [EnglishWords](https://github.com/dululu/notes/issues/28)--2024-03-05
 ## Git
@@ -117,6 +118,8 @@ My personal blog using issues and GitHub Actions😴😴😴
 </details>
 
 ## 周记
+- [挣扎
+](https://github.com/dululu/notes/issues/45)--2024-04-30
 - [Last week of  Febernuary](https://github.com/dululu/notes/issues/24)--2024-02-26
 - [银鞍照白马，洒踏如流星。](https://github.com/dululu/notes/issues/22)--2024-01-21
 - [周记](https://github.com/dululu/notes/issues/21)--2024-01-17

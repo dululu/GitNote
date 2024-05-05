@@ -8,6 +8,7 @@
 4. `pull`和`push`使用
 5. `ssh key`使用
 6. `Personal access tokens (classic)`个人访问令牌
+7. 代码回滚
 
 - [x] 如何在本地删除传到GitHub的文件
     - 首先进入文件仓库

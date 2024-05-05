@@ -128,8 +128,8 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--4 jobs to do--0 jobs done
-- [ ] leetcode 700题
-- [ ] 读完20本专业书籍
-- [ ] 刷至少三门专业课视频和作业
+- [ ] leetcode 700题 [Task700-28](https://leetcode.cn/u/dululu-5/)
+- [ ] 读完20本专业书籍 Zlibrary
+- [ ] 刷至少三门专业课视频和作业 [0/3](https://github.com/dululu/Lesson)
 - [ ] 保持好奇心
 

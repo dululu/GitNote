@@ -130,8 +130,9 @@ My personal blog using issues and GitHub Actions😴😴😴
 - [问题汇总2](https://github.com/dululu/notes/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/notes/issues/16)--2024-01-08
 ## TODO
-TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--3 jobs to do--0 jobs done
-- [ ] #2 
-- [ ] #20 
-- [ ] 写周记，复盘，记单词，刷leetcode
+TODO list from [需要学习的东西](https://github.com/dululu/notes/issues/9)--4 jobs to do--0 jobs done
+- [ ] 写周记
+- [ ] 复盘
+- [ ] 记单词
+- [ ] 刷leetcode
 

@@ -10,15 +10,7 @@ from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
 MD_HEAD = """## MyGitblog
-My personal blog using issues and GitHub Actions😴😴😴
-- [blog](https://dululu-github-io.vercel.app/zh-cn)
-- [cnblog](https://www.cnblogs.com/asn321/)
-- [RSS Feed](https://raw.githubusercontent.com/dululu/notes/main/feed.xml)
-
-
-> 
-> _**迈向高处的挣扎足够填充一个人的心灵，人们应当想象西西弗斯是快乐的。**_
->
+My personal blog(About Me) using issues and GitHub Actions
 """
 
 BACKUP_DIR = "BACKUP"

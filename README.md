@@ -2,7 +2,6 @@
 My personal blog(About Me) using issues and GitHub Actions
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
-<details><summary>显示</summary>
 <table>
 <thead>
 <tr>
@@ -54,7 +53,6 @@ My personal blog(About Me) using issues and GitHub Actions
 </tr>
 </tbody>
 </table>
-</table></details>
 
 ## 置顶文章
 - [AI TOOL](https://github.com/dululu/Blogs/issues/31)--2024-03-06
@@ -62,11 +60,11 @@ My personal blog(About Me) using issues and GitHub Actions
 - [GitHubActions和github-pages](https://github.com/dululu/Blogs/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 ## 最近更新
-- [2](https://github.com/dululu/Blogs/issues/48)--2024-05-31
-- [1](https://github.com/dululu/Blogs/issues/47)--2024-05-31
+- [q](https://github.com/dululu/Blogs/issues/50)--2024-05-31
 - [unittest单元测试](https://github.com/dululu/Blogs/issues/43)--2024-04-08
 - [Django](https://github.com/dululu/Blogs/issues/41)--2024-03-30
 - [字符串格式化](https://github.com/dululu/Blogs/issues/39)--2024-03-30
+- [ urllib3](https://github.com/dululu/Blogs/issues/38)--2024-03-30
 ## English
 - [EnglishWords](https://github.com/dululu/Blogs/issues/28)--2024-03-05
 ## Git

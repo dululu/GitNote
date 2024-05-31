@@ -2,7 +2,6 @@
 My personal blog(About Me) using issues and GitHub Actions
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
-<details><summary>显示</summary>
 <table>
 <thead>
 <tr>
@@ -48,18 +47,12 @@ My personal blog(About Me) using issues and GitHub Actions
 <td>6</td>
 </tr>
 <tr>
-<td>🈚️</td>
-<td>https://piaosanlang.gitbooks.io/spiders/content/03day/section3.7.html</td>
-<td>爬虫</td>
-</tr>
-<tr>
 <td>大江狗</td>
 <td>https://pythondjango.cn/django/basic-tutorials</td>
 <td>Django</td>
 </tr>
 </tbody>
 </table>
-</table></details>
 
 ## 置顶文章
 - [AI TOOL](https://github.com/dululu/Notes/issues/31)--2024-03-06
@@ -67,7 +60,7 @@ My personal blog(About Me) using issues and GitHub Actions
 - [GitHubActions和github-pages](https://github.com/dululu/Notes/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/Notes/issues/1)--2024-01-03
 ## 最近更新
-- [1](https://github.com/dululu/Notes/issues/46)--2024-05-31
+- [1](https://github.com/dululu/Notes/issues/47)--2024-05-31
 - [unittest单元测试](https://github.com/dululu/Notes/issues/43)--2024-04-08
 - [Django](https://github.com/dululu/Notes/issues/41)--2024-03-30
 - [字符串格式化](https://github.com/dululu/Notes/issues/39)--2024-03-30

@@ -1,5 +1,5 @@
 ## MyGitblog
-My personal blog(About Me) using issues and GitHub Actions
+My personal blog(About Me) using issues and GitHub Actions.
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
 <table>

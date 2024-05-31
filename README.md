@@ -59,6 +59,7 @@ My personal blog(About Me) using issues and GitHub Actions
 </tr>
 </tbody>
 </table>
+</table></details>
 
 ## 置顶文章
 - [AI TOOL](https://github.com/dululu/Notes/issues/31)--2024-03-06

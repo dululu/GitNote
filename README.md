@@ -2,7 +2,6 @@
 My personal blog(About Me) using issues and GitHub Actions
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
-<details><summary>显示</summary>
 <table>
 <thead>
 <tr>
@@ -54,69 +53,68 @@ My personal blog(About Me) using issues and GitHub Actions
 </tr>
 </tbody>
 </table>
-</table></details>
 
 ## 置顶文章
-- [AI TOOL](https://github.com/dululu/Notes/issues/31)--2024-03-06
-- [24-3](https://github.com/dululu/Notes/issues/11)--2024-01-06
-- [GitHubActions和github-pages](https://github.com/dululu/Notes/issues/2)--2024-01-04
-- [博客页面](https://github.com/dululu/Notes/issues/1)--2024-01-03
+- [AI TOOL](https://github.com/dululu/Blogs/issues/31)--2024-03-06
+- [24-3](https://github.com/dululu/Blogs/issues/11)--2024-01-06
+- [GitHubActions和github-pages](https://github.com/dululu/Blogs/issues/2)--2024-01-04
+- [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 ## 最近更新
-- [1](https://github.com/dululu/Notes/issues/47)--2024-05-31
-- [unittest单元测试](https://github.com/dululu/Notes/issues/43)--2024-04-08
-- [Django](https://github.com/dululu/Notes/issues/41)--2024-03-30
-- [字符串格式化](https://github.com/dululu/Notes/issues/39)--2024-03-30
-- [ urllib3](https://github.com/dululu/Notes/issues/38)--2024-03-30
+- [2](https://github.com/dululu/Blogs/issues/48)--2024-05-31
+- [1](https://github.com/dululu/Blogs/issues/47)--2024-05-31
+- [unittest单元测试](https://github.com/dululu/Blogs/issues/43)--2024-04-08
+- [Django](https://github.com/dululu/Blogs/issues/41)--2024-03-30
+- [字符串格式化](https://github.com/dululu/Blogs/issues/39)--2024-03-30
 ## English
-- [EnglishWords](https://github.com/dululu/Notes/issues/28)--2024-03-05
+- [EnglishWords](https://github.com/dululu/Blogs/issues/28)--2024-03-05
 ## Git
-- [git使用](https://github.com/dululu/Notes/issues/30)--2024-03-06
+- [git使用](https://github.com/dululu/Blogs/issues/30)--2024-03-06
 ## Python
-- [unittest单元测试](https://github.com/dululu/Notes/issues/43)--2024-04-08
-- [Django](https://github.com/dululu/Notes/issues/41)--2024-03-30
-- [字符串格式化](https://github.com/dululu/Notes/issues/39)--2024-03-30
-- [ urllib3](https://github.com/dululu/Notes/issues/38)--2024-03-30
-- [ HTTP/1.1 ](https://github.com/dululu/Notes/issues/37)--2024-03-30
+- [unittest单元测试](https://github.com/dululu/Blogs/issues/43)--2024-04-08
+- [Django](https://github.com/dululu/Blogs/issues/41)--2024-03-30
+- [字符串格式化](https://github.com/dululu/Blogs/issues/39)--2024-03-30
+- [ urllib3](https://github.com/dululu/Blogs/issues/38)--2024-03-30
+- [ HTTP/1.1 ](https://github.com/dululu/Blogs/issues/37)--2024-03-30
 <details><summary>显示更多</summary>
 
-- [Requests: HTTP for Humans™](https://github.com/dululu/Notes/issues/36)--2024-03-30
-- [Status Codes¶](https://github.com/dululu/Notes/issues/34)--2024-03-08
+- [Requests: HTTP for Humans™](https://github.com/dululu/Blogs/issues/36)--2024-03-30
+- [Status Codes¶](https://github.com/dululu/Blogs/issues/34)--2024-03-08
 </details>
 
 ## Skills
-- [git使用](https://github.com/dululu/Notes/issues/30)--2024-03-06
-- [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/Notes/issues/18)--2024-01-11
-- [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/Notes/issues/17)--2024-01-10
-- [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/Notes/issues/15)--2024-01-08
-- [GitHubActions和github-pages](https://github.com/dululu/Notes/issues/2)--2024-01-04
+- [git使用](https://github.com/dululu/Blogs/issues/30)--2024-03-06
+- [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/Blogs/issues/18)--2024-01-11
+- [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/Blogs/issues/17)--2024-01-10
+- [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/Blogs/issues/15)--2024-01-08
+- [GitHubActions和github-pages](https://github.com/dululu/Blogs/issues/2)--2024-01-04
 <details><summary>显示更多</summary>
 
-- [博客页面](https://github.com/dululu/Notes/issues/1)--2024-01-03
+- [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 </details>
 
 ## cpp
-- [ 计算机中，数据可以使用不同的编码方式进行保存和表示](https://github.com/dululu/Notes/issues/32)--2024-03-07
-- [一些常用函数](https://github.com/dululu/Notes/issues/29)--2024-03-05
-- [C++](https://github.com/dululu/Notes/issues/19)--2024-01-11
-- [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/Notes/issues/18)--2024-01-11
-- [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/Notes/issues/17)--2024-01-10
+- [ 计算机中，数据可以使用不同的编码方式进行保存和表示](https://github.com/dululu/Blogs/issues/32)--2024-03-07
+- [一些常用函数](https://github.com/dululu/Blogs/issues/29)--2024-03-05
+- [C++](https://github.com/dululu/Blogs/issues/19)--2024-01-11
+- [快速学习C和C++，基础语法和优化策略（三）](https://github.com/dululu/Blogs/issues/18)--2024-01-11
+- [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/Blogs/issues/17)--2024-01-10
 <details><summary>显示更多</summary>
 
-- [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/Notes/issues/15)--2024-01-08
+- [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/Blogs/issues/15)--2024-01-08
 </details>
 
 ## 周记
-- [Last week of  Febernuary](https://github.com/dululu/Notes/issues/24)--2024-02-26
-- [银鞍照白马，洒踏如流星。](https://github.com/dululu/Notes/issues/22)--2024-01-21
-- [周记](https://github.com/dululu/Notes/issues/21)--2024-01-17
+- [Last week of  Febernuary](https://github.com/dululu/Blogs/issues/24)--2024-02-26
+- [银鞍照白马，洒踏如流星。](https://github.com/dululu/Blogs/issues/22)--2024-01-21
+- [周记](https://github.com/dululu/Blogs/issues/21)--2024-01-17
 ## 收藏文章
-- [24-3](https://github.com/dululu/Notes/issues/11)--2024-01-06
+- [24-3](https://github.com/dululu/Blogs/issues/11)--2024-01-06
 ## 疑问🤔
-- [问题汇总3](https://github.com/dululu/Notes/issues/33)--2024-03-08
-- [问题汇总2](https://github.com/dululu/Notes/issues/26)--2024-02-27
-- [炒蛋问题](https://github.com/dululu/Notes/issues/16)--2024-01-08
+- [问题汇总3](https://github.com/dululu/Blogs/issues/33)--2024-03-08
+- [问题汇总2](https://github.com/dululu/Blogs/issues/26)--2024-02-27
+- [炒蛋问题](https://github.com/dululu/Blogs/issues/16)--2024-01-08
 ## TODO
-TODO list from [需要学习的东西](https://github.com/dululu/Notes/issues/9)--4 jobs to do--0 jobs done
+TODO list from [需要学习的东西](https://github.com/dululu/Blogs/issues/9)--4 jobs to do--0 jobs done
 - [ ] leetcode 700题 [Task700-28](https://leetcode.cn/u/dululu-5/)
 - [ ] 读完20本专业书籍 Zlibrary
 - [ ] 刷至少三门专业课视频和作业 [0/3](https://github.com/dululu/Lesson)

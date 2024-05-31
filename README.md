@@ -77,7 +77,7 @@ My personal blog(About Me) using issues and GitHub Actions
 - [ HTTP/1.1 ](https://github.com/dululu/Blogs/issues/37)--2024-03-30
 <details><summary>显示更多</summary>
 
-- [Requests: HTTP for Humans™](https://github.com/dululu/Blogs/issues/36)--2024-03-30
+- [Requests HTTP for Humans](https://github.com/dululu/Blogs/issues/36)--2024-03-30
 - [Status Codes¶](https://github.com/dululu/Blogs/issues/34)--2024-03-08
 </details>
 

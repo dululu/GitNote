@@ -52,7 +52,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 ## 最近更新
 - [q](https://github.com/dululu/Blogs/issues/55)--2024-06-01
 - [About me](https://github.com/dululu/Blogs/issues/54)--2024-06-01
-- [a](https://github.com/dululu/Blogs/issues/53)--2024-05-31
+- [流畅的Python](https://github.com/dululu/Blogs/issues/53)--2024-05-31
 - [e](https://github.com/dululu/Blogs/issues/52)--2024-05-31
 - [q](https://github.com/dululu/Blogs/issues/50)--2024-05-31
 ## English
@@ -99,10 +99,14 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [周记](https://github.com/dululu/Blogs/issues/21)--2024-01-17
 ## 收藏文章
 - [24-3](https://github.com/dululu/Blogs/issues/11)--2024-01-06
+## 日记
+- [q](https://github.com/dululu/Blogs/issues/55)--2024-06-01
 ## 疑问🤔
 - [问题汇总3](https://github.com/dululu/Blogs/issues/33)--2024-03-08
 - [问题汇总2](https://github.com/dululu/Blogs/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/Blogs/issues/16)--2024-01-08
+## 读书笔记
+- [流畅的Python](https://github.com/dululu/Blogs/issues/53)--2024-05-31
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/Blogs/issues/9)--4 jobs to do--0 jobs done
 - [ ] leetcode 700题 [Task700-28](https://leetcode.cn/u/dululu-5/)

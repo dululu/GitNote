@@ -10,12 +10,11 @@ from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
 MD_HEAD = """## MyGitblog
-My personal blog(About Me) using issues and GitHub Actions
+My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using issues and GitHub Actions
 """
 
 BACKUP_DIR = "BACKUP"
 ANCHOR_NUMBER = 5
-
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]

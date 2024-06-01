@@ -60,7 +60,7 @@ My personal blog(About Me) using issues and GitHub Actions
 - [GitHubActions和github-pages](https://github.com/dululu/Blogs/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 ## 最近更新
-- [Aonut me](https://github.com/dululu/Blogs/issues/54)--2024-06-01
+- [About me](https://github.com/dululu/Blogs/issues/54)--2024-06-01
 - [a](https://github.com/dululu/Blogs/issues/53)--2024-05-31
 - [e](https://github.com/dululu/Blogs/issues/52)--2024-05-31
 - [q](https://github.com/dululu/Blogs/issues/50)--2024-05-31

@@ -65,8 +65,6 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [Status Codes¶](https://github.com/dululu/Blogs/issues/34)--2024-03-08
 </details>
 
-## Skills
-- [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 ## cpp
 - [ 计算机中，数据可以使用不同的编码方式进行保存和表示](https://github.com/dululu/Blogs/issues/32)--2024-03-07
 - [一些常用函数](https://github.com/dululu/Blogs/issues/29)--2024-03-05

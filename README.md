@@ -1,5 +1,5 @@
 ## MyGitblog
-My personal blog(About Me) using issues and GitHub Actions
+My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using issues and GitHub Actions
 
 ## [友情链接](https://github.com/dululu/notes/issues/7)
 <table>
@@ -12,11 +12,6 @@ My personal blog(About Me) using issues and GitHub Actions
 </thead>
 <tbody>
 <tr>
-<td>兔子鮮笙</td>
-<td>https://tuzi.moe/</td>
-<td>22 岁的天才少年</td>
-</tr>
-<tr>
 <td>yihong</td>
 <td>https://github.com/yihong0618</td>
 <td>斗宗强者，恐怖如斯。</td>
@@ -25,11 +20,6 @@ My personal blog(About Me) using issues and GitHub Actions
 <td>古思为</td>
 <td>https://siwei.io/</td>
 <td>I build things with magic and scale the magic to help people.</td>
-</tr>
-<tr>
-<td>dululu</td>
-<td>https://github.com/dululu/notes/</td>
-<td>斗之气，三段😶‍🌫️😰🤣🥵</td>
 </tr>
 <tr>
 <td>jiayuancs</td>
@@ -60,11 +50,11 @@ My personal blog(About Me) using issues and GitHub Actions
 - [GitHubActions和github-pages](https://github.com/dululu/Blogs/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 ## 最近更新
+- [q](https://github.com/dululu/Blogs/issues/55)--2024-06-01
 - [About me](https://github.com/dululu/Blogs/issues/54)--2024-06-01
 - [a](https://github.com/dululu/Blogs/issues/53)--2024-05-31
 - [e](https://github.com/dululu/Blogs/issues/52)--2024-05-31
 - [q](https://github.com/dululu/Blogs/issues/50)--2024-05-31
-- [unittest单元测试](https://github.com/dululu/Blogs/issues/43)--2024-04-08
 ## English
 - [EnglishWords](https://github.com/dululu/Blogs/issues/28)--2024-03-05
 ## Git

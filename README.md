@@ -50,11 +50,11 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [GitHubActions和github-pages](https://github.com/dululu/Blogs/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 ## 最近更新
+- [Effective Python](https://github.com/dululu/Blogs/issues/56)--2024-06-01
 - [q](https://github.com/dululu/Blogs/issues/55)--2024-06-01
 - [About me](https://github.com/dululu/Blogs/issues/54)--2024-06-01
 - [流畅的Python](https://github.com/dululu/Blogs/issues/53)--2024-05-31
 - [e](https://github.com/dululu/Blogs/issues/52)--2024-05-31
-- [q](https://github.com/dululu/Blogs/issues/50)--2024-05-31
 ## English
 - [EnglishWords](https://github.com/dululu/Blogs/issues/28)--2024-03-05
 ## Git
@@ -106,6 +106,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [问题汇总2](https://github.com/dululu/Blogs/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/Blogs/issues/16)--2024-01-08
 ## 读书笔记
+- [Effective Python](https://github.com/dululu/Blogs/issues/56)--2024-06-01
 - [流畅的Python](https://github.com/dululu/Blogs/issues/53)--2024-05-31
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/Blogs/issues/9)--4 jobs to do--0 jobs done

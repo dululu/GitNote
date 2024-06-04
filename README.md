@@ -48,7 +48,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [GitHubActions和github-pages](https://github.com/dululu/Blogs/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/Blogs/issues/1)--2024-01-03
 ## 最近更新
-- [s](https://github.com/dululu/Blogs/issues/59)--2024-06-01
+- [在管理员目录在安装的包存放到哪里了](https://github.com/dululu/Blogs/issues/59)--2024-06-01
 - [e](https://github.com/dululu/Blogs/issues/58)--2024-06-01
 - [k](https://github.com/dululu/Blogs/issues/57)--2024-06-01
 - [Effective Python](https://github.com/dululu/Blogs/issues/56)--2024-06-01
@@ -76,7 +76,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [git使用](https://github.com/dululu/Blogs/issues/30)--2024-03-06
 - [EnglishWords](https://github.com/dululu/Blogs/issues/28)--2024-03-05
 ## 日记
-- [s](https://github.com/dululu/Blogs/issues/59)--2024-06-01
+- [在管理员目录在安装的包存放到哪里了](https://github.com/dululu/Blogs/issues/59)--2024-06-01
 - [e](https://github.com/dululu/Blogs/issues/58)--2024-06-01
 - [q](https://github.com/dululu/Blogs/issues/55)--2024-06-01
 - [银鞍照白马，洒踏如流星。](https://github.com/dululu/Blogs/issues/22)--2024-01-21

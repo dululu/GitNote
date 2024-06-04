@@ -76,7 +76,6 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [git使用](https://github.com/dululu/Blogs/issues/30)--2024-03-06
 - [EnglishWords](https://github.com/dululu/Blogs/issues/28)--2024-03-05
 ## 日记
-- [在管理员目录在安装的包存放到哪里了](https://github.com/dululu/Blogs/issues/59)--2024-06-01
 - [e](https://github.com/dululu/Blogs/issues/58)--2024-06-01
 - [q](https://github.com/dululu/Blogs/issues/55)--2024-06-01
 - [银鞍照白马，洒踏如流星。](https://github.com/dululu/Blogs/issues/22)--2024-01-21
@@ -84,6 +83,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [Effective Python](https://github.com/dululu/Blogs/issues/56)--2024-06-01
 - [流畅的Python](https://github.com/dululu/Blogs/issues/53)--2024-05-31
 ## 问题记录
+- [在管理员目录在安装的包存放到哪里了](https://github.com/dululu/Blogs/issues/59)--2024-06-01
 - [问题汇总3](https://github.com/dululu/Blogs/issues/33)--2024-03-08
 - [问题汇总2](https://github.com/dululu/Blogs/issues/26)--2024-02-27
 - [炒蛋问题](https://github.com/dululu/Blogs/issues/16)--2024-01-08

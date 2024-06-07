@@ -59,3 +59,4 @@ npm install -g package-name
 #### 本地安装：
 - 安装位置：本地安装将包安装到项目的特定目录中，通常是项目根目录下的`node_modules`文件夹。
 - 使用方式：本地安装的包只能在项目的上下文中使用。您需要通过相对路径或使用模块加载器（如require）来引入和使用本地安装的包。
+<img width="352" alt="image" src="https://github.com/dululu/GitNote/assets/64392262/0959df07-6687-42b3-a377-f7202ff47c24">

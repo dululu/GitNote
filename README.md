@@ -48,11 +48,11 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [GitHubActions和github-pages](https://github.com/dululu/GitNote/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/GitNote/issues/1)--2024-01-03
 ## 最近更新
+- [`sudo apt-get update`](https://github.com/dululu/GitNote/issues/63)--2024-06-07
 - [Docker](https://github.com/dululu/GitNote/issues/62)--2024-06-07
 - [npm](https://github.com/dululu/GitNote/issues/61)--2024-06-07
 - [`git`如何将一个仓库中的文件复制到另一个仓库](https://github.com/dululu/GitNote/issues/60)--2024-06-07
 - [RPC failed](https://github.com/dululu/GitNote/issues/58)--2024-06-01
-- [k](https://github.com/dululu/GitNote/issues/57)--2024-06-01
 ## Python
 - [unittest单元测试](https://github.com/dululu/GitNote/issues/43)--2024-04-08
 - [Django](https://github.com/dululu/GitNote/issues/41)--2024-03-30
@@ -89,6 +89,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [Effective Python](https://github.com/dululu/GitNote/issues/56)--2024-06-01
 - [流畅的Python](https://github.com/dululu/GitNote/issues/53)--2024-05-31
 ## 问题记录
+- [`sudo apt-get update`](https://github.com/dululu/GitNote/issues/63)--2024-06-07
 - [RPC failed](https://github.com/dululu/GitNote/issues/58)--2024-06-01
 - [问题汇总3](https://github.com/dululu/GitNote/issues/33)--2024-03-08
 - [问题汇总2](https://github.com/dululu/GitNote/issues/26)--2024-02-27

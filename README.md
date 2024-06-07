@@ -48,7 +48,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [GitHubActions和github-pages](https://github.com/dululu/GitNote/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/GitNote/issues/1)--2024-01-03
 ## 最近更新
-- [q](https://github.com/dululu/GitNote/issues/61)--2024-06-07
+- [npm](https://github.com/dululu/GitNote/issues/61)--2024-06-07
 - [`git`如何将一个仓库中的文件复制到另一个仓库](https://github.com/dululu/GitNote/issues/60)--2024-06-07
 - [在管理员目录在安装的包存放到哪里了](https://github.com/dululu/GitNote/issues/59)--2024-06-01
 - [RPC failed](https://github.com/dululu/GitNote/issues/58)--2024-06-01

@@ -78,7 +78,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [git使用](https://github.com/dululu/GitNote/issues/30)--2024-03-06
 - [EnglishWords](https://github.com/dululu/GitNote/issues/28)--2024-03-05
 ## 日记
-- [q](https://github.com/dululu/GitNote/issues/55)--2024-06-01
+- [关于星座，属相，16型人格，血型的一点点看法](https://github.com/dululu/GitNote/issues/55)--2024-06-01
 - [银鞍照白马，洒踏如流星。](https://github.com/dululu/GitNote/issues/22)--2024-01-21
 ## 读书笔记
 - [Effective Python](https://github.com/dululu/GitNote/issues/56)--2024-06-01

@@ -10,6 +10,22 @@
 ---
 
 ## WSL使用Docker
-- 安装WSL
-- 安装Docker
-- t
+- **安装WSL**
+- **安装Docker**:可以通过在WSL中执行适当的命令来安装Docker。例如，在Ubuntu上，可以执行以下命令：
+```
+sudo apt-get update
+sudo apt-get install docker.io
+```
+-**配置Docker访问权限**：默认情况下，Docker需要`root`权限才能运行。为了在WSL中以非root用户身份运行Docker，您需要**将当前用户添加到docker用户组**中。执行以下命令将当前用户添加到docker用户组：
+```
+sudo usermod -aG docker $USER
+```
+- **启动Docker服务**：在WSL中，可以使用以下命令启动Docker服务：
+```
+sudo service docker start
+```
+- **验证安装**：执行以下命令来验证Docker是否正确安装并正在运行：
+```
+docker version
+```
+- **使用Docker**：现在，您可以在WSL中使用Docker命令来构建、运行和管理容器。您可以使用常见的Docker命令，如`docker build`、`docker run`和`docker ps`等。

@@ -96,7 +96,7 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [炒蛋问题](https://github.com/dululu/GitNote/issues/16)--2024-01-08
 ## TODO
 TODO list from [需要学习的东西](https://github.com/dululu/GitNote/issues/9)--4 jobs to do--0 jobs done
-- [ ] leetcode 700题 [Task700-28](https://leetcode.cn/u/dululu-5/)
+- [ ] leetcode 700题 [Task700-28](https://leetcode.cn/u/dululu-5/) | [记录](https://github.com/dululu/obsgit/tree/main/LeetCode)
 - [ ] 读完20本专业书籍 Zlibrary
 - [ ] 刷至少三门专业课视频和作业 [0/3](https://github.com/dululu/Lesson)
 - [ ] 保持好奇心

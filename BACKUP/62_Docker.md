@@ -80,3 +80,5 @@ RUN pip3 install Pillow
 ---
 
 Docker->镜像->容器
+## WSL Docker
+- 直接在docker中运行，免去复杂安装

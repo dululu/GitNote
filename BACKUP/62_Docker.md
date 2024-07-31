@@ -42,3 +42,12 @@ docker version
 ---
 
 ## Github Codespaces
+- 远程访问位于Azure云中的容器
+- 包含了必要的软件包和软件
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/e008ba3f-50f2-4abc-ba84-0f445d4a7e7b">
+
+## 如何配置Github Codespaces
+`Dockerfile`
+- 自定义运行环境
+### `.devcontainer.json`
+- 描述此代码空间希望拥有的计算资源，如VScode插件，定义代码空间

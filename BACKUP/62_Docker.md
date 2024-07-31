@@ -76,3 +76,7 @@ RUN pip3 install Pillow
 - 直接从Python Docker 存储库中获取Docker镜像 
 - 自定义VScode
 - ...
+
+---
+
+Docker->镜像->容器

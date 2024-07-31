@@ -1,4 +1,4 @@
-# [git使用](https://github.com/dululu/Blogs/issues/30)
+# [git使用](https://github.com/dululu/GitNote/issues/30)
 
 > 原则上是碰到问题再用
 
@@ -117,3 +117,5 @@
 #### 在本地需要回滚代码可以用
 `git checkout <commit-hash>`
 将"<commit-hash>"替换为您想要回滚到的提交哈希值。
+
+## 创建新的分支，提交新的代码文件

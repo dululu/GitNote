@@ -70,3 +70,9 @@ RUN pip3 install Pillow
 构建镜像，然后基于镜像启动一个容器
 启动一个云上的VScode
 > 关闭防火墙，打开全局代理，淦
+## Update `.devcontainer.json`
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/bcf7810a-ebab-4580-926c-a3de64acfe4c">
+
+- 直接从Python Docker 存储库中获取Docker镜像 
+- 自定义VScode
+- ...

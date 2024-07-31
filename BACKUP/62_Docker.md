@@ -42,6 +42,7 @@ docker version
 ---
 
 ## Github Codespaces
+[Codespaces](https://www.youtube.com/watch?v=Ef_8Mwi6CR4&t=581s)
 - 远程访问位于Azure云中的容器
 - 包含了必要的软件包和软件
 <img width="272" alt="image" src="https://github.com/user-attachments/assets/e008ba3f-50f2-4abc-ba84-0f445d4a7e7b">
@@ -67,3 +68,4 @@ RUN pip3 install Pillow
 }
 ```
 构建镜像，然后基于镜像启动一个容器
+启动一个云上的VScode

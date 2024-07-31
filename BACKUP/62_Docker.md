@@ -53,3 +53,9 @@ docker version
 - 描述此代码空间希望拥有的计算资源，如VScode插件，定义代码空间
 
 ### 创建`Dockerfile`
+```
+FROM ubuntu:latest
+RUN apt update
+RUN apt install --yes git openjdk-21-jdk python3 python3-pip
+RUN pip3 install Pillow
+```

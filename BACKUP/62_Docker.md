@@ -61,4 +61,9 @@ RUN pip3 install Pillow
 ```
 ### 启动codespaces
 `.devcontainer.json`
-
+```
+{
+  "build": {"dockerfile": "Dockerfile"}
+}
+```
+构建镜像，然后基于镜像启动一个容器

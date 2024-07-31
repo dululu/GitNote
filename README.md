@@ -80,7 +80,6 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [npm](https://github.com/dululu/GitNote/issues/61)--2024-06-07
 <details><summary>显示更多</summary>
 
-- [`git`如何将一个仓库中的文件复制到另一个仓库](https://github.com/dululu/GitNote/issues/60)--2024-06-07
 - [AI TOOL](https://github.com/dululu/GitNote/issues/31)--2024-03-06
 - [git使用](https://github.com/dululu/GitNote/issues/30)--2024-03-06
 - [EnglishWords](https://github.com/dululu/GitNote/issues/28)--2024-03-05

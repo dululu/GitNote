@@ -49,11 +49,11 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [GitHubActions和github-pages](https://github.com/dululu/GitNote/issues/2)--2024-01-04
 - [博客页面](https://github.com/dululu/GitNote/issues/1)--2024-01-03
 ## 最近更新
+- [Command line in Linux](https://github.com/dululu/GitNote/issues/66)--2024-07-31
 - [环境变量](https://github.com/dululu/GitNote/issues/65)--2024-07-23
 - [Nginx 和 Tomcat](https://github.com/dululu/GitNote/issues/64)--2024-06-12
 - [`sudo apt-get update`](https://github.com/dululu/GitNote/issues/63)--2024-06-07
 - [Docker](https://github.com/dululu/GitNote/issues/62)--2024-06-07
-- [npm](https://github.com/dululu/GitNote/issues/61)--2024-06-07
 ## Python
 - [unittest单元测试](https://github.com/dululu/GitNote/issues/43)--2024-04-08
 - [Django](https://github.com/dululu/GitNote/issues/41)--2024-03-30
@@ -73,13 +73,14 @@ My personal blog([About Me](https://github.com/dululu/Blogs/issues/54)) using is
 - [快速学习C和C++，基础语法和优化策略。（二）](https://github.com/dululu/GitNote/issues/17)--2024-01-10
 - [快速学习C和C++，基础语法和优化策略（一）](https://github.com/dululu/GitNote/issues/15)--2024-01-08
 ## 工具使用
+- [Command line in Linux](https://github.com/dululu/GitNote/issues/66)--2024-07-31
 - [环境变量](https://github.com/dululu/GitNote/issues/65)--2024-07-23
 - [Nginx 和 Tomcat](https://github.com/dululu/GitNote/issues/64)--2024-06-12
 - [Docker](https://github.com/dululu/GitNote/issues/62)--2024-06-07
 - [npm](https://github.com/dululu/GitNote/issues/61)--2024-06-07
-- [`git`如何将一个仓库中的文件复制到另一个仓库](https://github.com/dululu/GitNote/issues/60)--2024-06-07
 <details><summary>显示更多</summary>
 
+- [`git`如何将一个仓库中的文件复制到另一个仓库](https://github.com/dululu/GitNote/issues/60)--2024-06-07
 - [AI TOOL](https://github.com/dululu/GitNote/issues/31)--2024-03-06
 - [git使用](https://github.com/dululu/GitNote/issues/30)--2024-03-06
 - [EnglishWords](https://github.com/dululu/GitNote/issues/28)--2024-03-05

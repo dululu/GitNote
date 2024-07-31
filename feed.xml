@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/GitNote</id><title>RSS feed of dululu's GitNote</title><updated>2024-07-31T16:14:53.771038+00:00</updated><link href="https://github.com/dululu/GitNote"/><link href="https://raw.githubusercontent.com/dululu/GitNote/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/GitNote/issues/66</id><title>Command line in Linux</title><updated>2024-07-31T16:14:54.179469+00:00</updated><content type="html"><![CDATA[<h2>A</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/dululu/GitNote</id><title>RSS feed of dululu's GitNote</title><updated>2024-07-31T16:19:27.554490+00:00</updated><link href="https://github.com/dululu/GitNote"/><link href="https://raw.githubusercontent.com/dululu/GitNote/main/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/dululu/GitNote/issues/66</id><title>Command line in Linux</title><updated>2024-07-31T16:19:27.798325+00:00</updated><content type="html"><![CDATA[<h2>A</h2>
 <p><code>ls</code>
 <code>cp</code>
 <code>mv</code>
@@ -9,7 +9,7 @@
 <code>rmdir</code>
 <code>clear</code></p>
 <img width="487" alt="image" src="https://github.com/user-attachments/assets/4887a5a6-fcb2-4a4f-9ecf-5dd875d2970e">
-]]></content><link href="https://github.com/dululu/GitNote/issues/66"/><category term="工具使用"/><published>2024-07-31T15:10:42+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/65</id><title>环境变量</title><updated>2024-07-31T16:14:54.388561+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/66"/><category term="工具使用"/><published>2024-07-31T15:10:42+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/65</id><title>环境变量</title><updated>2024-07-31T16:19:27.948067+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>pyhon</p>
 </blockquote>
 <ul>
@@ -28,7 +28,7 @@
 那个在上面系统就默认调用那个版本的python</p>
 </li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/65"/><category term="工具使用"/><published>2024-07-23T01:26:10+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/64</id><title>Nginx 和 Tomcat</title><updated>2024-07-31T16:14:54.573760+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/GitNote/issues/65"/><category term="工具使用"/><published>2024-07-23T01:26:10+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/64</id><title>Nginx 和 Tomcat</title><updated>2024-07-31T16:19:28.051512+00:00</updated><content type="html"><![CDATA[<ul>
 <li>Flask是一个使用Python编写的轻量级Web应用框架。</li>
 <li>RESTful（Representational State Transfer）是一种设计和组织Web服务的架构风格，用于构建可伸缩、可维护和可扩展的网络应用程序。</li>
 </ul>
@@ -39,7 +39,7 @@
 <p>在实际应用中，通常会将Nginx作为前端服务器，用于处理静态资源的请求、负载均衡和反向代理。Nginx可以接收客户端的请求，并根据配置将请求转发到后端的Tomcat服务器。Tomcat则专注于处理动态内容，如Java Servlet和JSP，它可以与Nginx配合使用，提供完整的Web应用程序服务。</p>
 <p>通过将Nginx与Tomcat结合使用，可以充分发挥它们各自的优势。Nginx作为反向代理和负载均衡器可以提供高性能和可靠性，而Tomcat作为Java应用程序容器可以处理动态内容和提供Java相关的功能。</p>
 <p>总结起来，Nginx和Tomcat在Web服务器领域扮演不同的角色。Nginx适用于高性能的静态资源服务、反向代理和负载均衡，而Tomcat则专注于托管和执行Java Servlet和JSP的动态内容。结合使用它们可以构建强大而可靠的Web应用程序架构。</p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/64"/><category term="工具使用"/><published>2024-06-12T09:45:49+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/63</id><title>`sudo apt-get update`</title><updated>2024-07-31T16:14:54.757737+00:00</updated><content type="html"><![CDATA[<h2>刺探最新的情报</h2>
+]]></content><link href="https://github.com/dululu/GitNote/issues/64"/><category term="工具使用"/><published>2024-06-12T09:45:49+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/63</id><title>`sudo apt-get update`</title><updated>2024-07-31T16:19:28.160469+00:00</updated><content type="html"><![CDATA[<h2>刺探最新的情报</h2>
 <blockquote>
 <p><code>sudo apt-get update</code> 是在<code>Ubuntu</code>或<code>Debian</code>系统中使用的命令，用于更新<strong>软件包列表</strong>和<strong>软件包管理器</strong>的元数据。让我们逐个解释每个部分的含义</p>
 </blockquote>
@@ -54,7 +54,7 @@
 <p>python: <code>pip install pg</code>
 nodejs: <code>npm install pg</code>
 Ubuntu: <code>apt-get install pg</code></p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/63"/><category term="问题记录"/><published>2024-06-07T17:20:51+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/62</id><title>Docker</title><updated>2024-07-31T16:14:54.953401+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/63"/><category term="问题记录"/><published>2024-06-07T17:20:51+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/62</id><title>Docker</title><updated>2024-07-31T16:19:28.273566+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p><code>Docker</code>是一种开源的容器化平台，它可以帮助开发者<strong>构建、打包、部署和运行</strong>应用程序。通过使用<code>Docker</code>，开发者可以将<strong>应用程序及其所有依赖项打包</strong>到一个称为&quot;容器&quot;的独立运行环境中，然后在不同的环境中进行<strong>部署</strong>，而无需担心环境差异和依赖关系的问题。</p>
 </blockquote>
 <h3>以下是关于Docker的一些重要信息：</h3>
@@ -64,7 +64,7 @@ Ubuntu: <code>apt-get install pg</code></p>
 <li><strong>跨平台和可移植性</strong>：Docker提供了跨平台的支持，可以在各种操作系统（如Linux、Windows、macOS等）上运行。容器化的应用程序具有高度的可移植性，可以在不同的环境中以相同的方式运行，减少了因环境差异而导致的问题。</li>
 <li><strong>管理工具和生态系统</strong>：Docker提供了一系列管理工具，如Docker CLI、Docker Compose和Docker Swarm，用于构建、管理和编排容器。此外，Docker生态系统中有大量的公共镜像和社区贡献的工具，可以方便地共享和使用。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/62"/><category term="工具使用"/><published>2024-06-07T15:45:48+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/61</id><title>npm</title><updated>2024-07-31T16:14:55.184769+00:00</updated><content type="html"><![CDATA[<h2>npm</h2>
+]]></content><link href="https://github.com/dululu/GitNote/issues/62"/><category term="工具使用"/><published>2024-06-07T15:45:48+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/61</id><title>npm</title><updated>2024-07-31T16:19:28.366319+00:00</updated><content type="html"><![CDATA[<h2>npm</h2>
 <blockquote>
 <p>介绍：npm（Node Package Manager）是Node.js的<strong>包管理器</strong>，用于安装、更新和管理JavaScript模块。它是Node.js生态系统中最常用的工具之一，许多开发者使用它来管理他们的项目依赖项。</p>
 </blockquote>
@@ -92,7 +92,7 @@ npm update
 <pre><code>npm uninstall package-name
 npm install -g package-name
 </code></pre>
-]]></content><link href="https://github.com/dululu/GitNote/issues/61"/><category term="工具使用"/><published>2024-06-07T14:54:40+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/58</id><title>RPC failed</title><updated>2024-07-31T16:14:55.367933+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/61"/><category term="工具使用"/><published>2024-06-07T14:54:40+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/58</id><title>RPC failed</title><updated>2024-07-31T16:19:28.488427+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>错误描述:<code>error: RPC failed; curl 52 OpenSSL SSL_read: Connection was reset, errno 10054 fatal: the remote end hung up unexpectedly</code></p>
 </blockquote>
 <h3>这个错误消息的主要组成部分是：</h3>
@@ -130,7 +130,7 @@ npm install -g package-name
 </li>
 </ol>
 <p>如果上述解决方案都无法解决问题，建议稍后再次尝试或联系远程服务器的管理员以获得更多帮助。</p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/58"/><category term="问题记录"/><published>2024-06-01T00:44:25+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/55</id><title>关于星座，属相，16型人格，血型的一点点看法</title><updated>2024-07-31T16:14:55.563109+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/58"/><category term="问题记录"/><published>2024-06-01T00:44:25+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/55</id><title>关于星座，属相，16型人格，血型的一点点看法</title><updated>2024-07-31T16:19:28.610784+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>先说一下我的刻板印象</p>
 </blockquote>
 <ul>
@@ -145,14 +145,14 @@ npm install -g package-name
 <li><a href="https://www.bilibili.com/read/cv6647556/?spm_id_from=333.999.collection.opus.click">https://www.bilibili.com/read/cv6647556/?spm_id_from=333.999.collection.opus.click</a></li>
 </ul>
 <p>想到了再写</p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/55"/><category term="日记"/><published>2024-06-01T00:15:29+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/54</id><title>About me</title><updated>2024-07-31T16:14:55.737678+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/GitNote/issues/55"/><category term="日记"/><published>2024-06-01T00:15:29+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/54</id><title>About me</title><updated>2024-07-31T16:19:28.717234+00:00</updated><content type="html"><![CDATA[<ul>
 <li><a href="https://www.yangtzeu.edu.cn/xxgk.htm">YU</a></li>
 <li>Love Python</li>
 <li><a href="https://dululu.github.io/">Always on the way</a></li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/54"/><published>2024-06-01T00:06:44+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/53</id><title>流畅的Python</title><updated>2024-07-31T16:14:55.908062+00:00</updated><content type="html"><![CDATA[<h2>传送门👇</h2>
+]]></content><link href="https://github.com/dululu/GitNote/issues/54"/><published>2024-06-01T00:06:44+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/53</id><title>流畅的Python</title><updated>2024-07-31T16:19:28.863836+00:00</updated><content type="html"><![CDATA[<h2>传送门👇</h2>
 <p><a href="https://github.com/dululu/obsgit/tree/main/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E6%B5%81%E7%95%85%E7%9A%84python">🍺🍺🍺</a></p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/53"/><category term="读书笔记"/><published>2024-05-31T23:17:29+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/43</id><title>unittest单元测试</title><updated>2024-07-31T16:14:56.103223+00:00</updated><content type="html"><![CDATA[<p><a href="https://docs.python.org/3/library/unittest.html">https://docs.python.org/3/library/unittest.html</a></p>
+]]></content><link href="https://github.com/dululu/GitNote/issues/53"/><category term="读书笔记"/><published>2024-05-31T23:17:29+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/43</id><title>unittest单元测试</title><updated>2024-07-31T16:19:28.979594+00:00</updated><content type="html"><![CDATA[<p><a href="https://docs.python.org/3/library/unittest.html">https://docs.python.org/3/library/unittest.html</a></p>
 <h3>文件结构</h3>
 <img width="122" alt="image" src="https://github.com/dululu/notes/assets/64392262/56d6a8f6-480d-4373-bdaa-8f277bf58e52">
 <p>把<code>vector</code>文件夹变成一个<code>package</code>
@@ -192,7 +192,7 @@ if __name__ == &#x27;__main__&#x27;:
 <li><code>test method</code>必须以<code>test_</code>开头</li>
 </ul>
 <h3>常用<code>feature</code></h3>
-]]></content><link href="https://github.com/dululu/GitNote/issues/43"/><category term="Python"/><published>2024-04-08T20:11:53+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/41</id><title>Django</title><updated>2024-07-31T16:14:56.301035+00:00</updated><content type="html"><![CDATA[<h2>Django<a href="https://github.com/jaywcjlove/reference/blob/main/docs/django.md">&lt;_&gt;</a></h2>
+]]></content><link href="https://github.com/dululu/GitNote/issues/43"/><category term="Python"/><published>2024-04-08T20:11:53+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/41</id><title>Django</title><updated>2024-07-31T16:19:29.107521+00:00</updated><content type="html"><![CDATA[<h2>Django<a href="https://github.com/jaywcjlove/reference/blob/main/docs/django.md">&lt;_&gt;</a></h2>
 <h2>M models
 T templates
 V views
@@ -256,8 +256,8 @@ def index(request):
     return HttpResponse(&quot;Hello world!&quot;)
 </code></pre>
 <p>再次运行<code>Django</code>时就可以返回来自客户端的回应</p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/41"/><category term="Python"/><published>2024-03-30T18:06:26+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/39</id><title>字符串格式化</title><updated>2024-07-31T16:14:56.507597+00:00</updated><content type="html"><![CDATA[<h2><a href="https://pyformat.info/">字符串格式化</a></h2>
-]]></content><link href="https://github.com/dululu/GitNote/issues/39"/><category term="Python"/><published>2024-03-30T17:52:51+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/38</id><title> urllib3</title><updated>2024-07-31T16:14:56.682427+00:00</updated><content type="html"><![CDATA[<p><code>urllib3</code>是一个<code>Python</code>的第三方库，用于在<code>HTTP</code>请求中处理连接池、编码、重试等功能。它提供了一个高级的<code>HTTP</code>客户端接口，简化了与Web服务器进行通信的过程。</p>
+]]></content><link href="https://github.com/dululu/GitNote/issues/41"/><category term="Python"/><published>2024-03-30T18:06:26+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/39</id><title>字符串格式化</title><updated>2024-07-31T16:19:29.241478+00:00</updated><content type="html"><![CDATA[<h2><a href="https://pyformat.info/">字符串格式化</a></h2>
+]]></content><link href="https://github.com/dululu/GitNote/issues/39"/><category term="Python"/><published>2024-03-30T17:52:51+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/38</id><title> urllib3</title><updated>2024-07-31T16:19:29.368522+00:00</updated><content type="html"><![CDATA[<p><code>urllib3</code>是一个<code>Python</code>的第三方库，用于在<code>HTTP</code>请求中处理连接池、编码、重试等功能。它提供了一个高级的<code>HTTP</code>客户端接口，简化了与Web服务器进行通信的过程。</p>
 <ul>
 <li>使用<code>urllib3</code>库可以进行<code>HTTP</code>请求的发送和处理。可以创建<code>PoolManager</code>对象来管理连接池，并使用该对象发送<code>GET</code>、<code>POST</code>等类型的请求。<code>urllib3</code>提供了对请求和响应的各种处理方法，例如设置请求头部、处理响应内容等。</li>
 </ul>
@@ -323,7 +323,7 @@ status_code = response.status
 headers = response.headers
 data = response.data
 </code></pre>
-]]></content><link href="https://github.com/dululu/GitNote/issues/38"/><category term="Python"/><published>2024-03-30T06:13:17+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/37</id><title> HTTP/1.1 </title><updated>2024-07-31T16:14:56.867009+00:00</updated><content type="html"><![CDATA[<p>当客户端使用HTTP/1.1与服务器进行通信时，以下是一个简单的示例：</p>
+]]></content><link href="https://github.com/dululu/GitNote/issues/38"/><category term="Python"/><published>2024-03-30T06:13:17+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/37</id><title> HTTP/1.1 </title><updated>2024-07-31T16:19:29.498640+00:00</updated><content type="html"><![CDATA[<p>当客户端使用HTTP/1.1与服务器进行通信时，以下是一个简单的示例：</p>
 <pre><code>GET /index.html HTTP/1.1
 Host: www.example.com
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
@@ -362,7 +362,7 @@ username=johndoe&amp;password=123
 <li>数据长度限制：GET请求的<strong>数据传输受到URL长度限制的影响</strong>，不同的浏览器和服务器有不同的限制值，通常在几千个字符左右。而POST请求的数据传输没有固定的长度限制，但服务器和应用程序可能会设置自己的限制。</li>
 <li>数据类型：G<strong>ET请求通常用于获取资源或从服务器获取数据，而POST请求通常用于向服务器提交数据</strong>，例如表单提交、文件上传等。POST请求允许发送更多类型的数据，而GET请求主要适用于发送简单的键值对数据。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/37"/><category term="Python"/><published>2024-03-30T05:30:25+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/36</id><title>Requests HTTP for Humans</title><updated>2024-07-31T16:14:57.066273+00:00</updated><content type="html"><![CDATA[<h2><a href="https://requests.readthedocs.io/en/latest/">Requests</a></h2>
+]]></content><link href="https://github.com/dululu/GitNote/issues/37"/><category term="Python"/><published>2024-03-30T05:30:25+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/36</id><title>Requests HTTP for Humans</title><updated>2024-07-31T16:19:29.616057+00:00</updated><content type="html"><![CDATA[<h2><a href="https://requests.readthedocs.io/en/latest/">Requests</a></h2>
 <ul>
 <li><a href="https://github.com/dululu/notes/issues/37">HTTP/1.1</a></li>
 <li><a href="https://github.com/dululu/notes/issues/38">urllib3</a></li>
@@ -404,7 +404,7 @@ If a response contains some Cookies, you can quickly access them,Cookies are ret
 You can tell Requests to stop waiting for a response after a given number of seconds with the <code>timeout</code> parameter.</li>
 <li>Errors and Exceptions<a href="https://requests.readthedocs.io/en/latest/user/quickstart/#errors-and-exceptions">¶</a></li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/36"/><category term="Python"/><published>2024-03-30T05:05:15+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/34</id><title>Status Codes¶</title><updated>2024-07-31T16:14:57.250063+00:00</updated><content type="html"><![CDATA[<p>HTTP状态码（Status Codes）是在HTTP协议中用于表示请求的处理结果的三位数代码。每个状态码都具有特定的含义，用于指示请求是否成功、遇到错误、需要进一步操作等。
+]]></content><link href="https://github.com/dululu/GitNote/issues/36"/><category term="Python"/><published>2024-03-30T05:05:15+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/34</id><title>Status Codes¶</title><updated>2024-07-31T16:19:29.746606+00:00</updated><content type="html"><![CDATA[<p>HTTP状态码（Status Codes）是在HTTP协议中用于表示请求的处理结果的三位数代码。每个状态码都具有特定的含义，用于指示请求是否成功、遇到错误、需要进一步操作等。
 以下是一些常见的HTTP状态码及其含义：</p>
 <ul>
 <li>200 OK：请求成功。服务器成功处理了请求并返回所需的内容。</li>
@@ -438,7 +438,7 @@ Traceback (most recent call last):
     raise http_error
 requests.exceptions.HTTPError: 404 Client Error
 </code></pre>
-]]></content><link href="https://github.com/dululu/GitNote/issues/34"/><category term="Python"/><published>2024-03-08T19:53:42+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/33</id><title>问题汇总3</title><updated>2024-07-31T16:14:57.427902+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/GitNote/issues/34"/><category term="Python"/><published>2024-03-08T19:53:42+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/33</id><title>问题汇总3</title><updated>2024-07-31T16:19:29.877378+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input checked="" disabled="" type="checkbox"> 相对路径和绝对路径</li>
 <li><input checked="" disabled="" type="checkbox"> <code>int</code>和<code>char</code></li>
 <li>
@@ -457,7 +457,7 @@ LF代表&quot;Line Feed&quot;，在ASCII码中对应于十进制值10或十六�
 <p>这两种表示形式的区别在于行结束符的编码方式。在Unix、Linux和macOS中，每行的结束只使用LF字符；而在Windows中，每行的结束使用两个字符组成的序列CRLF。</p>
 <p>需要注意的是，不同的操作系统在处理文本文件时可能对行结束符有不同的要求。大多数文本编辑器和操作系统能够自动识别和处理不同的行结束符。然而，当在不同操作系统之间交换文本文件时，可能需要注意行结束符的转换，以确保文件在不同的环境中正确显示和处理。
 #32 </p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/33"/><category term="问题记录"/><published>2024-03-08T07:57:24+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/32</id><title> 计算机中，数据可以使用不同的编码方式进行保存和表示</title><updated>2024-07-31T16:14:57.607917+00:00</updated><content type="html"><![CDATA[<h3>关于<code>char</code>和<code>int</code></h3>
+]]></content><link href="https://github.com/dululu/GitNote/issues/33"/><category term="问题记录"/><published>2024-03-08T07:57:24+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/32</id><title> 计算机中，数据可以使用不同的编码方式进行保存和表示</title><updated>2024-07-31T16:19:29.987335+00:00</updated><content type="html"><![CDATA[<h3>关于<code>char</code>和<code>int</code></h3>
 <ul>
 <li>
 众所周知在c++中<code>char</code>占一个字节，8位；<code>int</code>占4个字节，32位；
@@ -472,7 +472,7 @@ LF代表&quot;Line Feed&quot;，在ASCII码中对应于十进制值10或十六�
 <blockquote>
 <p>还有Unicode 和 UTF-8（一种可变长度的 Unicode 编码）</p>
 </blockquote>
-]]></content><link href="https://github.com/dululu/GitNote/issues/32"/><category term="cpp"/><published>2024-03-07T12:33:39+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/31</id><title>AI TOOL</title><updated>2024-07-31T16:14:57.795177+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/GitNote/issues/32"/><category term="cpp"/><published>2024-03-07T12:33:39+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/31</id><title>AI TOOL</title><updated>2024-07-31T16:19:30.122008+00:00</updated><content type="html"><![CDATA[<ul>
 <li><a href="https://poe.com/chat/230btdq08a1544w930h">poe</a></li>
 </ul>
 <blockquote>
@@ -494,7 +494,7 @@ LF代表&quot;Line Feed&quot;，在ASCII码中对应于十进制值10或十六�
 1.https://doc.miyun.app/
 2.规则代理，换路线。
 3.清理DNS缓存</p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/31"/><category term="Top"/><category term="工具使用"/><published>2024-03-06T22:06:29+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/30</id><title>git使用</title><updated>2024-07-31T16:14:57.984216+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/31"/><category term="Top"/><category term="工具使用"/><published>2024-03-06T22:06:29+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/30</id><title>git使用</title><updated>2024-07-31T16:19:30.239263+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>原则上是碰到问题再用</p>
 </blockquote>
 <ol>
@@ -538,7 +538,7 @@ LF代表&quot;Line Feed&quot;，在ASCII码中对应于十进制值10或十六�
 在Git中，&quot;stage&quot;是指将文件或更改添加到暂存区（也称为索引）的过程。暂存区是位于Git仓库中的一个中间区域，用于准备将要提交的更改。
 当您对文件进行修改后，可以使用<code>git add .</code>命令将更改添加到暂存区.</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/30"/><category term="工具使用"/><published>2024-03-06T20:35:39+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/29</id><title>一些常用函数</title><updated>2024-07-31T16:14:58.205037+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/GitNote/issues/30"/><category term="工具使用"/><published>2024-03-06T20:35:39+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/29</id><title>一些常用函数</title><updated>2024-07-31T16:19:30.329651+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> <code>strcpy</code>函数</li>
 <li><input disabled="" type="checkbox"> <code>memset</code>函数</li>
 <li><input disabled="" type="checkbox"> <code>atoi</code>函数</li>
@@ -567,7 +567,7 @@ atoi 是一个 C 语言中的函数，用于将字符串转换为整数（intege
 用于计算数据类型或变量的字节大小。
 type 是一个数据类型，如 <code>int</code>、<code>float</code>、<code>char</code> 等，或者是一个具体的变量、数组、结构体等表达式。
 函数的参数必须是_变量_。<code>int</code>是操作符</p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/29"/><category term="cpp"/><published>2024-03-05T14:48:25+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/28</id><title>EnglishWords</title><updated>2024-07-31T16:14:58.383626+00:00</updated><content type="html"><![CDATA[<h4><a href="https://translate.google.com.hk/?hl=zh-CN">谷歌翻译</a></h4>
+]]></content><link href="https://github.com/dululu/GitNote/issues/29"/><category term="cpp"/><published>2024-03-05T14:48:25+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/28</id><title>EnglishWords</title><updated>2024-07-31T16:19:30.467430+00:00</updated><content type="html"><![CDATA[<h4><a href="https://translate.google.com.hk/?hl=zh-CN">谷歌翻译</a></h4>
 <h3><a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/backup">剑桥翻译</a></h3>
 <p><strong><em>From where ?</em></strong></p>
 <ul>
@@ -594,7 +594,7 @@ type 是一个数据类型，如 <code>int</code>、<code>float</code>、<code>c
 <li>argument/arg  争论，论据/变元，自变量</li>
 <li>parameter 参数</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/28"/><category term="工具使用"/><published>2024-03-05T11:54:32+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/27</id><title>面向连接和面向消息的套接字</title><updated>2024-07-31T16:14:58.568403+00:00</updated><content type="html"><![CDATA[<p>面向连接的套接字：stream</p>
+]]></content><link href="https://github.com/dululu/GitNote/issues/28"/><category term="工具使用"/><published>2024-03-05T11:54:32+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/27</id><title>面向连接和面向消息的套接字</title><updated>2024-07-31T16:19:30.639234+00:00</updated><content type="html"><![CDATA[<p>面向连接的套接字：stream</p>
 <ul>
 <li>收发数据的套接字内有缓冲（buffer）,就是字节数组。不存在数据边界</li>
 <li>缓冲可能·被填满，套接字无法再接收数据，传输套接字停止传输。</li>
@@ -610,7 +610,7 @@ type 是一个数据类型，如 <code>int</code>、<code>float</code>、<code>c
 <li>不存在<strong>连接</strong>的概念。</li>
 <li>不可靠的，不按顺序的，数据高速传输为目的。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/27"/><published>2024-03-03T19:26:57+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/26</id><title>问题汇总2</title><updated>2024-07-31T16:14:58.825240+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/27"/><published>2024-03-03T19:26:57+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/26</id><title>问题汇总2</title><updated>2024-07-31T16:19:30.756405+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>list2</p>
 </blockquote>
 <ul>
@@ -707,7 +707,7 @@ Pull Request（PR）是一种在分布式版本控制系统中协作开发的机
 <li>提交 Pull Request：检查 Pull Request 的详细信息，包括标题、描述和更改的文件。确认后，点击 &quot;Create Pull Request&quot; 提交您的 Pull Request。</li>
 <li>等待审核：项目维护者将会对您的代码进行审核和评审。他们可能会提出问题、建议修改或讨论更改。</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/26"/><category term="问题记录"/><published>2024-02-27T16:29:26+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/22</id><title>银鞍照白马，洒踏如流星。</title><updated>2024-07-31T16:14:59.009225+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/26"/><category term="问题记录"/><published>2024-02-27T16:29:26+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/22</id><title>银鞍照白马，洒踏如流星。</title><updated>2024-07-31T16:19:30.902896+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>为什么起这么名字，因为最近太背了，我希望自己能过得潇洒一点。看罗翔老师的《十三邀》采访，听他念一遍这句诗就喜欢上了，如此洒脱不羁，以前的我也是这样的哈哈。我已经23了，我总是疏于表达自己的情感，想得很好，实施起来却非常的困难，喜欢就是喜欢，不喜欢就是不喜欢，撞到南墙之后才知道南墙到底硬不硬，快速试错，降低犯错的机会成本，从错误中寻找正确，人总是要犯错的，完美主义不可行。</p>
 </blockquote>
 <ul>
@@ -728,10 +728,10 @@ Pull Request（PR）是一种在分布式版本控制系统中协作开发的机
 <li>健身</li>
 <li>健康饮食</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/22"/><category term="日记"/><published>2024-01-21T15:25:57+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/21</id><title>周记</title><updated>2024-07-31T16:14:59.421983+00:00</updated><content type="html"><![CDATA[<p>见贤思齐
+]]></content><link href="https://github.com/dululu/GitNote/issues/22"/><category term="日记"/><published>2024-01-21T15:25:57+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/21</id><title>周记</title><updated>2024-07-31T16:19:31.161774+00:00</updated><content type="html"><![CDATA[<p>见贤思齐
 灵感来源:https://coldrain.ink/#/home
 有计划➕执行力强➕web3：<a href="https://polebug.github.io/">https://polebug.github.io/</a></p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/21"/><published>2024-01-17T20:45:12+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/20</id><title>Neovim </title><updated>2024-07-31T16:14:59.616984+00:00</updated><content type="html"><![CDATA[<h3>Step1:安装<a href="https://github.com/neovim/neovim/blob/master/INSTALL.md">Neovim</a></h3>
+]]></content><link href="https://github.com/dululu/GitNote/issues/21"/><published>2024-01-17T20:45:12+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/20</id><title>Neovim </title><updated>2024-07-31T16:19:31.279671+00:00</updated><content type="html"><![CDATA[<h3>Step1:安装<a href="https://github.com/neovim/neovim/blob/master/INSTALL.md">Neovim</a></h3>
 <p>Ubuntu+WSL</p>
 <pre><code class="language-powershell-interactive">sudo apt-get install python-dev python-pip python3-dev
 sudo apt-get install python3-setuptools
@@ -744,7 +744,7 @@ sudo cmake --build build/ --target uninstall
 <p>而是保存在<code> ~/.config/nvim/init.vim</code>,但是 init.vim 只作为入口，真正的配置，是加载的其他的 lua 配置文件
 <a href="https://martinlwx.github.io/zh-cn/config-neovim-from-scratch/">写的太好了😎😎😎</a></p>
 <p>😅 然而我还没弄好 @dululu [2024年01月14日 23:21:49] </p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/20"/><published>2024-01-14T15:21:59+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/18</id><title>快速学习C和C++，基础语法和优化策略（三）</title><updated>2024-07-31T16:14:59.809666+00:00</updated><content type="html"><![CDATA[<h3>函数 functions</h3>
+]]></content><link href="https://github.com/dululu/GitNote/issues/20"/><published>2024-01-14T15:21:59+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/18</id><title>快速学习C和C++，基础语法和优化策略（三）</title><updated>2024-07-31T16:19:31.410049+00:00</updated><content type="html"><![CDATA[<h3>函数 functions</h3>
 <h4>内联函数 inline</h4>
 <p>程序运行效率,用空间换时间。</p>
 <pre><code class="language-cpp">// 使用函数调用
@@ -848,7 +848,7 @@ float (*norm_ptr)(float x, float y);
 float norml2(float x, float y);
 float (&amp;norm_ptr)(float x, float y) = norml1;
 </code></pre>
-]]></content><link href="https://github.com/dululu/GitNote/issues/18"/><category term="cpp"/><published>2024-01-11T06:35:36+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/17</id><title>快速学习C和C++，基础语法和优化策略。（二）</title><updated>2024-07-31T16:14:59.981096+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
+]]></content><link href="https://github.com/dululu/GitNote/issues/18"/><category term="cpp"/><published>2024-01-11T06:35:36+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/17</id><title>快速学习C和C++，基础语法和优化策略。（二）</title><updated>2024-07-31T16:19:31.507569+00:00</updated><content type="html"><![CDATA[<h3>P5:结构</h3>
 <h4>结构体，联合体，枚举类型</h4>
 <ul>
 <li><code>struct</code> 定义结构体</li>
@@ -942,7 +942,7 @@ int *p9 = new Student[16];
 //释放
 delete p1;
 </code></pre>
-]]></content><link href="https://github.com/dululu/GitNote/issues/17"/><category term="cpp"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/16</id><title>炒蛋问题</title><updated>2024-07-31T16:15:00.193535+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
+]]></content><link href="https://github.com/dululu/GitNote/issues/17"/><category term="cpp"/><published>2024-01-10T17:34:56+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/16</id><title>炒蛋问题</title><updated>2024-07-31T16:19:31.639455+00:00</updated><content type="html"><![CDATA[<p><a href="https://poe.com/ChatGPT">为什么不问一问GPT呢😊😊😊</a></p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> gdb是啥？</li>
 <li><input checked="" disabled="" type="checkbox"> 为啥WSL可以编译cpp</li>
@@ -1054,7 +1054,7 @@ cat xx 展示文本
 `C+b+d` 挂起session
 `tmux+a` 打开挂起的session
 </code></pre>
-]]></content><link href="https://github.com/dululu/GitNote/issues/16"/><category term="问题记录"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/15</id><title>快速学习C和C++，基础语法和优化策略（一）</title><updated>2024-07-31T16:15:00.402133+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
+]]></content><link href="https://github.com/dululu/GitNote/issues/16"/><category term="问题记录"/><published>2024-01-08T16:56:58+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/15</id><title>快速学习C和C++，基础语法和优化策略（一）</title><updated>2024-07-31T16:19:31.745256+00:00</updated><content type="html"><![CDATA[<p><strong>视频</strong>：<a href="https://www.bilibili.com/video/BV1Vf4y1P7pq/">ysq</a><br />
 <strong>文档</strong>: <a href="https://github.com/ShiqiYu/CPP/tree/main/week01">github</a></p>
 <blockquote>
 <p>只是差缺补漏，快速过一遍💨💨💨</p>
@@ -1348,13 +1348,13 @@ float array_sum(*values, size_t length);
 string可以<strong>直接使用运算符</strong>对字符串进行操作。string类没有越界检查
 <img width="617" alt="image" src="https://github.com/dululu/notes/assets/64392262/3cb6200f-588d-4207-b89f-0d2c5c2f4988"></li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/15"/><category term="cpp"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/9</id><title>需要学习的东西</title><updated>2024-07-31T16:15:00.636325+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/dululu/GitNote/issues/15"/><category term="cpp"/><published>2024-01-08T05:46:40+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/9</id><title>需要学习的东西</title><updated>2024-07-31T16:19:31.873727+00:00</updated><content type="html"><![CDATA[<ul>
 <li><input disabled="" type="checkbox"> leetcode 700题 <a href="https://leetcode.cn/u/dululu-5/">Task700-28</a> | <a href="https://github.com/dululu/obsgit/tree/main/LeetCode">记录</a></li>
 <li><input disabled="" type="checkbox"> 读完20本专业书籍 Zlibrary</li>
 <li><input disabled="" type="checkbox"> 刷至少三门专业课视频和作业 <a href="https://github.com/dululu/Lesson">0/3</a></li>
 <li><input disabled="" type="checkbox"> 保持好奇心</li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/7</id><title>链接</title><updated>2024-07-31T16:15:00.811174+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
+]]></content><link href="https://github.com/dululu/GitNote/issues/9"/><category term="TODO"/><published>2024-01-06T16:54:19+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/7</id><title>链接</title><updated>2024-07-31T16:19:32.115329+00:00</updated><content type="html"><![CDATA[<p>格式如下（请参考我下面的 comment）:
 冒号为中文冒号 ：</p>
 <p>名字：xxxxxx
 链接：xxxxxx
@@ -1364,7 +1364,7 @@ string可以<strong>直接使用运算符</strong>对字符串进行操作。str
 打心后会自动加到友情链接里。</li>
 </ul>
 <p>❤</p>
-]]></content><link href="https://github.com/dululu/GitNote/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/2</id><title>GitHubActions和github-pages</title><updated>2024-07-31T16:15:01.054752+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/dululu/GitNote/issues/7"/><category term="Friends"/><published>2024-01-06T15:30:06+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/2</id><title>GitHubActions和github-pages</title><updated>2024-07-31T16:19:32.227742+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>最近想重新拾起写日记的习惯，想把blog部署在GitHub上，但是一直不清楚具体方法。<a href="https://polebug.github.io/aboutme/">polebug</a>,本地已经好了，学习如何自动化部署。</li>
 <li>突然想在readme文件中实时显示leetcode的刷题数，正好可以用GitHub Actions来运行一个定时任务，定期更新Markdown文档中的刷题数</li>
@@ -1374,7 +1374,7 @@ string可以<strong>直接使用运算符</strong>对字符串进行操作。str
 <ul>
 <li><input checked="" disabled="" type="checkbox"> <a href="https://www.youtube.com/watch?v=R8_veQiYBjI&amp;ab_channel=TechWorldwithNana">https://www.youtube.com/watch?v=R8_veQiYBjI&amp;ab_channel=TechWorldwithNana</a></li>
 </ul>
-]]></content><link href="https://github.com/dululu/GitNote/issues/2"/><category term="Top"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/1</id><title>博客页面</title><updated>2024-07-31T16:15:01.273872+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
+]]></content><link href="https://github.com/dululu/GitNote/issues/2"/><category term="Top"/><published>2024-01-04T17:29:14+00:00</published></entry><entry><id>https://github.com/dululu/GitNote/issues/1</id><title>博客页面</title><updated>2024-07-31T16:19:32.340202+00:00</updated><content type="html"><![CDATA[<h2><a href="https://laike9m.com/blog/people-die-but-long-live-github,122/">People Die, but Long Live GitHub</a></h2>
 <ul>
 <li>参考来源：<a href="https://github.com/yihong0618/gitblog/issues/209">yihong</a>&amp;<a href="https://github.com/yihong0618/gitblog/issues/177">这个博客开源了</a></li>
 <li>

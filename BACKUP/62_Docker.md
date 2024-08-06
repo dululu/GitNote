@@ -82,3 +82,5 @@ RUN pip3 install Pillow
 Docker->镜像->容器
 ## WSL Docker
 - 直接在docker中运行，免去复杂安装
+## 其实也可以直接在Windows中安装Docker，没必要去折腾WSL
+https://juejin.cn/post/7273026558398660648
